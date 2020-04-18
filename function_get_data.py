@@ -1,9 +1,17 @@
 # -*- coding: utf-8 -*-
 """
+Created on Tue Apr 14 07:36:47 2020
+
+@author: cvicentm
+"""
+
+# -*- coding: utf-8 -*-
+"""
 Created on Wed Apr  1 21:34:59 2020
 
 @author: cvicentm
 """
+import re
 
 #FUNCTIONS:
 #---------------------------------------------------------------------------------------
