@@ -59,7 +59,7 @@ def get_news(name, subtitles_day):
     num_range=0
     num_range2=0
     
-    if "La1" in name:
+    if "La1" in name or "1_spa" in name:
         string_ini = "15:00:"
         string_final = "15:59:"
         num_range = 59 
@@ -91,9 +91,9 @@ def get_news(name, subtitles_day):
                     string_final2 = "20:55:"
                     num_range2 = 55
                 
-
-        new_morning = get_news_between_times(subtitles_day, string_ini, string_final, num_range)
-        new_afternoon = get_news_between_times(subtitles_day, string_ini2, string_final2, num_range2)
+    
+    new_morning = get_news_between_times(subtitles_day, string_ini, string_final, num_range)
+    new_afternoon = get_news_between_times(subtitles_day, string_ini2, string_final2, num_range2)
     
     return new_morning , new_afternoon
 

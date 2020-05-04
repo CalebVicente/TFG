@@ -10,8 +10,11 @@ import function_get_data
 import os
 import logging, logging.handlers
 from datetime import datetime
+import timeit
+import progressbar
+from tqdm import tqdm
 
-def get_data():
+def get_data(n_documents):
     
     name_log_file = datetime.now().strftime('logs\load_subtitles_%d_%m_%Y.log')
     
@@ -46,34 +49,53 @@ def get_data():
     
     file_corpus=open("file_corpus.txt", "w",encoding="utf-8")
     
-    
-    for subtitle in files:
+    #tic and toc are used to know how many time the process of extaction has taken
+    tic=timeit.default_timer()
+    #tqdm(files) is given a progress bar in this for:
+    print("The process of extraction has been started: ")
+    for subtitle in tqdm(files[0:n_documents]):
         
-        if "La1" in subtitle or "Telecinco" in subtitle or "laSexta" in subtitle or "antena3" in subtitle:
-    
-                f=open(subtitle, "r",encoding="utf-8")
-                if f.mode == 'r':
-                    contents = f.read()
-                    #creation of a dictionary whith the content of the news
-                    dic_subtitles[subtitle+"morning_new"], dic_subtitles[subtitle+"afternoon_new"]=function_get_data.get_news(subtitle, contents)
-                    if dic_subtitles[subtitle+"morning_new"]=="":
-                        logging.warning("El subtitulo: "+subtitle+"morning_new está vacio \n")
-                    if dic_subtitles[subtitle+"afternoon_new"]=="":
-                        logging.warning("El subtitulo: "+subtitle+"afternoon_new está vacio \n")
+        
+        if "La1" in subtitle or "1_spa" in subtitle or "Telecinco" in subtitle or "laSexta" in subtitle or "antena3" in subtitle:
+                
+                try:
+                    f=open(subtitle, "r",encoding="utf-8")
                         
-                    #creation of a list whith the content of the news
-                    #MAYBE I SHOUDNT CALL GET_NEWS(CONTENT), BECAUSE I ALREADY HAVE THE INFORMATION IN THE DICTIONARY
-                    #list_subtitles.append(get_news(subtitle, contents))
-                    
-                    file_corpus.write(subtitle+"morning_new"+"\n")
-                    file_corpus.write("----------------------------------------------------------------\n")
-                    file_corpus.write(dic_subtitles[subtitle+"morning_new"])
-                    file_corpus.write("----------------------------------------------------------------\n")
-                    file_corpus.write(subtitle+"afternoon_new"+"\n")
-                    file_corpus.write("----------------------------------------------------------------\n")
-                    file_corpus.write(dic_subtitles[subtitle+"afternoon_new"])
-                    file_corpus.write("----------------------------------------------------------------\n")
-                f.close()
+                    try:
+                        if f.mode == 'r':
+                            
+                            contents = f.read()
+                            #creation of a dictionary whith the content of the news
+                            dic_subtitles[subtitle+"morning_new"], dic_subtitles[subtitle+"afternoon_new"]=function_get_data.get_news(subtitle, contents)
+                            if dic_subtitles[subtitle+"morning_new"]=="":
+                                logging.warning("El subtitulo: "+subtitle+"morning_new está vacio \n")
+                            if dic_subtitles[subtitle+"afternoon_new"]=="":
+                                logging.warning("El subtitulo: "+subtitle+"afternoon_new está vacio \n")
+                                
+                            #creation of a list whith the content of the news
+                            #MAYBE I SHOUDNT CALL GET_NEWS(CONTENT), BECAUSE I ALREADY HAVE THE INFORMATION IN THE DICTIONARY
+                            #list_subtitles.append(get_news(subtitle, contents))
+                            
+                            file_corpus.write(subtitle+"morning_new"+"\n")
+                            file_corpus.write("----------------------------------------------------------------\n")
+                            file_corpus.write(dic_subtitles[subtitle+"morning_new"])
+                            file_corpus.write("----------------------------------------------------------------\n")
+                            file_corpus.write(subtitle+"afternoon_new"+"\n")
+                            file_corpus.write("----------------------------------------------------------------\n")
+                            file_corpus.write(dic_subtitles[subtitle+"afternoon_new"])
+                            file_corpus.write("----------------------------------------------------------------\n")
+                        f.close()
+                    except UnicodeDecodeError:
+                        logging.warning("UnicodeDecodeError --- The subtititle: "+subtitle+" cant be decodified  \n")
+                            
+                except OSError:
+                     logging.warning("OSError --- The subtititle: "+subtitle+" cant be opened  \n")
+            
+                   
+    toc=timeit.default_timer()
+    time_process=tic-toc
+    print("The process of estract all subtitles has taken "+str(time_process)+" seconds")            
+                
     
     file_corpus.close()
 

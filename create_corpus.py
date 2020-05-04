@@ -32,7 +32,8 @@ from pattern.es import lemma
 #libreria de parsetree en: https://www.clips.uantwerpen.be/pages/pattern-en#tree
 from nltk.stem.snowball import SnowballStemmer
 from sklearn.feature_extraction.text import CountVectorizer
-
+import timeit
+import itertools
 
 
 
@@ -53,12 +54,16 @@ def normalize(text):
             #we do it with yield to create a generator, too much faster, and when less memory problems than a list
             yield token
             
-def create_corpus():
+def create_corpus(n_documents):
+    #tic and toc are used to know how many time the process of extaction has taken
+    tic=timeit.default_timer()
     
-    dic_subtitles=get_data.get_data()
+    dic_subtitles=get_data.get_data(n_documents)
     
     #the rows where the value is empty are removed.
     dic_subtitles = {key:value for (key,value) in dic_subtitles.items() if value != ""}
+    #this line can cut the dictionary of document to make faster
+    dic_subtitles= dict(itertools.islice(dic_subtitles.items(), 0, n_documents))
     
     #list with all the element tokenized
     list_subt_token = [word_tokenize(value) for (key,value) in dic_subtitles.items()]
@@ -85,9 +90,11 @@ def create_corpus():
     """with open('pickle\Words.txt', 'wb') as filename:
         pickle.dump(words, filename)
        """ 
-    return generator_normalize, Bow_matrix, vectorizer
+    #tic and toc are used to know how many time the process of extaction has taken
+    toc=timeit.default_timer()
+    print("Creation of the corpus has taken: "+str(toc-tic)+" seconds")
+    return generator_normalize, Bow_matrix, vectorizer, vectorizer_first
 
-#[generator_normalize, Bow_matrix, vectorizer]=create_corpus()
 
 
 
