@@ -54,6 +54,23 @@ def normalize(text):
             #we do it with yield to create a generator, too much faster, and when less memory problems than a list
             yield token
             
+def normalize_word(word):
+    
+    ## Module constants
+    snowball = SnowballStemmer('spanish')
+    stopwords   = set(nltk.corpus.stopwords.words('spanish'))
+    punctuation = string.punctuation
+    
+    word = word.lower() 
+    #this is applying english lemmatization, so we have to prove with patter
+    #the thing is that as far as i know patter only works in python 2
+    if word not in stopwords and word not in punctuation and len(word)>3:
+        word = lemma(word)
+        word = snowball.stem(word)
+    #if word not in stopwords and word not in punctuation and len(word)>3:
+        #we do it with yield to create a generator, too much faster, and when less memory problems than a list
+    return word
+            
 def create_corpus(n_documents):
     #tic and toc are used to know how many time the process of extaction has taken
     tic=timeit.default_timer()
@@ -69,7 +86,8 @@ def create_corpus(n_documents):
     list_subt_token = [word_tokenize(value) for (key,value) in dic_subtitles.items()]
     
     generator_normalize = [list(normalize(document)) for document in list_subt_token]
-    
+    """
+    #this code is only necesary when we are using sklearn
     vectorizer_first = CountVectorizer()
     
     vectorizer_first.fit_transform([' '.join(doc) for doc in generator_normalize])
@@ -87,14 +105,13 @@ def create_corpus(n_documents):
         pickle.dump(Bow_matrix, filename)
     with open('pickle\Vectorizer.txt', 'wb') as filename:
         pickle.dump(vectorizer, filename)
-    """with open('pickle\Words.txt', 'wb') as filename:
-        pickle.dump(words, filename)
-       """ 
+    """
     #tic and toc are used to know how many time the process of extaction has taken
     toc=timeit.default_timer()
     print("Creation of the corpus has taken: "+str(toc-tic)+" seconds")
-    return generator_normalize, Bow_matrix, vectorizer, vectorizer_first
-
-
+    """
+    return generator_normalize, Bow_matrix, vectorizer, vectorizer_first, dic_subtitles
+    """
+    return generator_normalize, dic_subtitles
 
 
