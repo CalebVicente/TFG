@@ -5,26 +5,40 @@ Created on Wed May  6 17:26:56 2020
 @author: cvicentm
 """
 #EN ESTE PROGRAMA ES IMPORTANTISIO CAMBIAR EL NOMBE DE VARIABLES Y REORDENARLO, PORQUE MUCHO ESTÁ COPIADO Y PEGADO
-import matplotlib.pyplot as plt
-import numpy as np
-import pandas as pd
-from sklearn.cluster import KMeans
+from sklearn.decomposition import LatentDirichletAllocation
+#import pyLDAvis.sklearn
+
+from create_corpus import create_corpus
+
+import gensim
+import gensim.corpora as corpora
+from gensim.utils import lemmatize, simple_preprocess
+from gensim.models import CoherenceModel
+from PIL import ImageColor
+from create_corpus import normalize_word
+from docx import Document
+from docx.shared import RGBColor
+from nltk import word_tokenize
 from random import randint
 import os
 from tqdm import tqdm
 import matplotlib.pyplot as plt
 import numpy as np
-from unsupervised_learning_gensim import printColorWordDocument
-from unsupervised_learning_gensim import LDAmodel
-import gensim
 
-N_TOPICS = 5
+
+import pandas as pd
+from sklearn.cluster import KMeans
+
+
+from unsupervised_learning_gensim import LDAmodel
+from unsupervised_learning_gensim import printColorWordDocument
+
+N_TOPICS = 50
 #este parámetro no se puede añadir a mano
-n_documents =200
-n_printedDocuments =5
+n_documents =4000
+n_printedDocuments =50
 [array_topic_per_document, best_n_topic, dic_subtitles,lda,generator_normalize,corpus,id2word]=LDAmodel(n_topics=N_TOPICS,n_documents=n_documents, n_printedDocuments=n_printedDocuments)
 
-n_printedDocuments = 4
 for i in range(n_documents):
     fig, ax = plt.subplots()   # Declares a figure handle
     ax.plot(np.arange(0,best_n_topic,1),array_topic_per_document[i],'-*',label=list(dic_subtitles.keys())[i])
@@ -80,17 +94,20 @@ lda_model = gensim.models.ldamodel.LdaModel(corpus=corpus,
                                                alpha='auto',
                                                per_word_topics=True)
 
+
+
 colors = []
 
     
 for i in range(best_n_topic):
     colors.append('#%06X' % randint(0, 0xFFFFFF))
-    colors.append('#000000')
-    #creation of the directory which content all documents printed
-    if not os.path.exists('word'):
-        os.makedirs('word')  
+colors.append('#000000')
+#creation of the directory which content all documents printed
+if not os.path.exists('word'):
+    os.makedirs('word')  
         
 print("colour´s documented are being printed")
 for i in tqdm(range(n_printedDocuments)):
-    printColorWordDocument(i,colors,generator_normalize,dic_subtitles,lda_model,corpus,n_documents,n_printedDocuments)
+    printColorWordDocument(i,colors,generator_normalize,dic_subtitles,lda_model,corpus)
 
+print("el mejor tópicoooooooooooo:"+str(best_n_topic))

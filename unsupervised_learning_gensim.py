@@ -35,12 +35,12 @@ import numpy as np
 
 
 
-def printColorWordDocument(number,colors,generator_normalize,dic_subtitles,lda_model,corpus,n_documents,n_printedDocuments):
+def printColorWordDocument(number,colors,generator_normalize,dic_subtitles,lda_model,corpus):
     #make an explanation of every of the parameters of this function
-    corp_cur = corpus[number]
+    corp_cur = corpus[number] 
     topic_percs, wordid_topics, wordid_phivalues = lda_model[corp_cur]
-    
     word_dominanttopic = [(lda_model.id2word[wd], topic[0]) for wd, topic in wordid_topics if topic]
+                          
     
     def wordToDocument (word, color_hex):
         color_rgb = ImageColor.getrgb(color_hex)
@@ -68,11 +68,9 @@ def printColorWordDocument(number,colors,generator_normalize,dic_subtitles,lda_m
     #document_classified=[(word,word_dominanttopic_dict[word]) for word in generator_normalize[0]]
     document = Document()
     paragraph = document.add_paragraph()
+    [wordToDocument(word,colors[topic]) for word,topic in document_classified]
     
-    
-    print(colors)
-    [wordToDocument(word,colors[topic]) for word,topic in document_classified]  
-    word_subtitles_colors="word"+list(dic_subtitles.keys())[number][9:-1]+str(n_documents)+str(n_printedDocuments)+".docx"
+    word_subtitles_colors="word"+list(dic_subtitles.keys())[number][9:-1]+".docx"
     document.save(word_subtitles_colors)
     
 
@@ -136,11 +134,11 @@ def LDAmodel( n_topics, n_documents, n_printedDocuments, step=1, start=1):
     f=open('pickle\lda_model_'+str(best_n_topic)+'_'+str(n_documents)+'.sav', 'rb')
     lda = pickle.load(f)
     document_per_topic=lda.get_document_topics(corpus)
-    
+    """
     corp_cur = corpus[1]
     topic_percs, wordid_topics, wordid_phivalues = lda[corp_cur]
     print(wordid_topics)
-    
+    """
     array_topic_per_document = np.zeros((n_documents, best_n_topic))
     
     
