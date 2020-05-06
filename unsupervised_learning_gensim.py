@@ -30,20 +30,17 @@ from nltk import word_tokenize
 from random import randint
 import os
 from tqdm import tqdm
-
-N_TOPICS = 40
-#este parámetro no se puede añadir a mano
-n_documents = 4763
-n_printedDocuments = 50
-file_lda_model = 'pickle\lda_model_'+str(N_TOPICS)+'_'+str(n_documents)+'.sav'
+import matplotlib.pyplot as plt
+import numpy as np
 
 
-def printColorWordDocument(number,colors,generator_normalize,dic_subtitles,lda_model,corpus):
+
+def printColorWordDocument(number,colors,generator_normalize,dic_subtitles,lda_model,corpus,n_documents,n_printedDocuments):
     #make an explanation of every of the parameters of this function
-    corp_cur = corpus[number] 
+    corp_cur = corpus[number]
     topic_percs, wordid_topics, wordid_phivalues = lda_model[corp_cur]
+    
     word_dominanttopic = [(lda_model.id2word[wd], topic[0]) for wd, topic in wordid_topics if topic]
-                          
     
     def wordToDocument (word, color_hex):
         color_rgb = ImageColor.getrgb(color_hex)
@@ -71,31 +68,91 @@ def printColorWordDocument(number,colors,generator_normalize,dic_subtitles,lda_m
     #document_classified=[(word,word_dominanttopic_dict[word]) for word in generator_normalize[0]]
     document = Document()
     paragraph = document.add_paragraph()
-    [wordToDocument(word,colors[topic]) for word,topic in document_classified]
     
-    word_subtitles_colors="word"+list(dic_subtitles.keys())[number][9:-1]+".docx"
+    
+    print(colors)
+    [wordToDocument(word,colors[topic]) for word,topic in document_classified]  
+    word_subtitles_colors="word"+list(dic_subtitles.keys())[number][9:-1]+str(n_documents)+str(n_printedDocuments)+".docx"
     document.save(word_subtitles_colors)
+    
 
-#Tengo que escribir para que sirve cada cosa que hace el gensim
-print("the corpus is being created")
-[generator_normalize, dic_subtitles]=create_corpus(n_documents)
+def training_model(n_documents,N_TOPICS,id2word, corpus):
+    #ESCRIBIR QUE HACE ESTA FUNCIÓN Y PARA QUE SIRVE CADA UNO DE SUS PARÁMETROS
+    
+    
+    print("the model is being trained with: "+str(N_TOPICS)+ "topics")
+    
+    lda_model = gensim.models.ldamodel.LdaModel(corpus=corpus,
+                                               id2word=id2word,
+                                               num_topics=N_TOPICS, 
+                                               random_state=100,
+                                               update_every=1,
+                                               chunksize=100,
+                                               passes=10,
+                                               alpha='auto',
+                                               per_word_topics=True)
+    
+    
+    #tengo bastantes dudas si en el parámetro texts tengo que poner generator_normalize o no
+    coherencemodel = CoherenceModel(model=lda_model, corpus=corpus, dictionary=id2word, coherence='u_mass')
+    coherence_values = coherencemodel.get_coherence()
+    #the model is gonna be saved
+    # if the number of subtitles doest change, we can use the same model than the last time
+    
+    file_lda_model = 'pickle\lda_model_'+str(N_TOPICS)+'_'+str(n_documents)+'.sav'
+    pickle.dump(lda_model, open(file_lda_model, 'wb'))
+    
+    return coherence_values
 
-id2word = corpora.Dictionary(generator_normalize)
+#PROGRAM......................................................................
+def LDAmodel( n_topics, n_documents, n_printedDocuments, step=1, start=1):   
+    coherencemodelArray=[]
+    #Tengo que escribir para que sirve cada cosa que hace el gensim
+    print(" the corpus with: "+str(n_topics)+" is being created")
+    [generator_normalize, dic_subtitles]=create_corpus(n_documents)
+    
+    #this is creating a dictionary with all de different words of the document
+    id2word = corpora.Dictionary(generator_normalize)
+    
+    # Create Corpus: Term Document Frequency
+    corpus = [id2word.doc2bow(text) for text in generator_normalize]
+    
 
-# Create Corpus: Term Document Frequency
-corpus = [id2word.doc2bow(text) for text in generator_normalize]
-
-print("the model is being trained")
-lda_model = gensim.models.ldamodel.LdaModel(corpus=corpus,
-                                           id2word=id2word,
-                                           num_topics=N_TOPICS, 
-                                           random_state=100,
-                                           update_every=1,
-                                           chunksize=100,
-                                           passes=10,
-                                           alpha='auto',
-                                           per_word_topics=True)   
-
+    for n_topics in range(start, n_topics, step):
+        #function based on : https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#13viewthetopicsinldamodel
+        coherencemodelArray.append(training_model(n_documents,n_topics,id2word,corpus))
+    
+    
+    x = range(start, n_topics+1, step)
+    #n_topics+1 because has to have the same weight than coherencemodelArray
+    plt.plot(x, coherencemodelArray)
+    plt.xlabel("N_Topics")
+    plt.ylabel("Coherence")
+    plt.legend(("coherence_values"), loc='best')
+    plt.show()
+    
+    best_n_topic=coherencemodelArray.index(min(coherencemodelArray))+start
+    print("el mejor modelo es: "+'pickle\lda_model_'+str(best_n_topic)+'_'+str(n_documents)+'.sav')
+    f=open('pickle\lda_model_'+str(best_n_topic)+'_'+str(n_documents)+'.sav', 'rb')
+    lda = pickle.load(f)
+    document_per_topic=lda.get_document_topics(corpus)
+    
+    corp_cur = corpus[1]
+    topic_percs, wordid_topics, wordid_phivalues = lda[corp_cur]
+    print(wordid_topics)
+    
+    array_topic_per_document = np.zeros((n_documents, best_n_topic))
+    
+    
+    for i in range(n_documents):
+        for j in range(len(document_per_topic[i])):
+            array_topic_per_document[i][document_per_topic[i][j][0]]= document_per_topic[i][j][1]
+    
+    #NUMBER OF DOCUMENTs to print results on word
+    
+    
+    return array_topic_per_document, best_n_topic, dic_subtitles,lda,generator_normalize,corpus,id2word
+"""
 print("se va a proceder a guardar el modelo en un fichero")
 # if the number of subtitles doest change, we can use the same model than the last time
 pickle.dump(lda_model, open(file_lda_model, 'wb'))
@@ -112,27 +169,17 @@ if not os.path.exists('word'):
 print("colour´s documented are being printed")
 for i in tqdm(range(n_printedDocuments)):
     printColorWordDocument(i,colors,generator_normalize,dic_subtitles,lda_model,corpus)
-
+"""
 
 """"
+pip install pyldavis==2.1.0
 print("estamos con el tema de imprimir las gráficas")
 pyLDAvis.enable_notebook()
 panel = pyLDAvis.sklearn.prepare(lda, Bow_matrix, vectorizer, mds='tsne')
 pyLDAvis.display(panel)
 """
-"""
-import matplotlib.pyplot as plt
-import numpy as np
 
-dic_preprocesing_subtitles = pickle.load(open("pickle\dict_preprocesing_subtitles.txt", "rb"))
-news_list = list(dic_preprocesing_subtitles)
 
-for i in range(50):
-    new_name=news_list[i]
-    topic_distribution = lda.transform(Bow_matrix[i])
-    numpy_distribution=np.asarray(topic_distribution)
-    numpy_distribution=np.resize(numpy_distribution,(n_topics,))
-    fig, ax = plt.subplots()   # Declares a figure handle
-    ax.plot(np.arange(0,n_topics,1),numpy_distribution,'-*',label=new_name)
-    ax.legend()
-"""
+    
+#Sería interesante hacer clustering con la matriz array_topic_per_document, consiguiendo saber que documentos se parecen y cuales no
+

@@ -2026,3 +2026,2411 @@
 
 2020-05-04 19:37:04,276:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 16.xlog cant be decodified  
 
+2020-05-04 19:40:16,857:get_data.py:71:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-04 19:40:16,857:get_data.py:73:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-04 19:40:17,732:get_data.py:71:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-04 19:40:17,732:get_data.py:73:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-04 19:40:20,803:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 29.xlog cant be decodified  
+
+2020-05-04 19:40:20,803:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 30.xlog cant be decodified  
+
+2020-05-04 19:40:23,177:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 02 20.xlog cant be decodified  
+
+2020-05-04 19:40:23,537:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 05.xlogmorning_new está vacio 
+
+2020-05-04 19:40:23,865:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-05-04 19:40:24,679:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-05-04 19:40:24,742:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-05-04 19:40:25,273:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 05 22.xlogafternoon_new está vacio 
+
+2020-05-04 19:40:28,522:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 09 04.xlog cant be decodified  
+
+2020-05-04 19:40:29,178:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-05-04 19:40:29,178:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 19:40:29,288:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-05-04 19:40:29,444:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 29.xlogafternoon_new está vacio 
+
+2020-05-04 19:40:29,475:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-05-04 19:40:29,522:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-05-04 19:40:29,522:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 19:40:30,288:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-05-04 19:40:30,553:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-05-04 19:40:30,553:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-05-04 19:40:30,584:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-05-04 19:40:31,600:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-05-04 19:40:31,881:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 09.xlog cant be decodified  
+
+2020-05-04 19:40:31,990:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 16.xlog cant be decodified  
+
+2020-05-04 19:40:33,627:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:40:34,117:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-05-04 19:40:34,117:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-05-04 19:40:36,429:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 06 23.xlog cant be decodified  
+
+2020-05-04 19:40:39,710:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 08 10.xlogmorning_new está vacio 
+
+2020-05-04 19:40:39,710:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 08 10.xlogafternoon_new está vacio 
+
+2020-05-04 19:40:40,334:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 04.xlogmorning_new está vacio 
+
+2020-05-04 19:40:40,334:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:40:40,381:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 12.xlogmorning_new está vacio 
+
+2020-05-04 19:40:42,271:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 10 29.xlogmorning_new está vacio 
+
+2020-05-04 19:40:42,271:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 10 29.xlogafternoon_new está vacio 
+
+2020-05-04 19:40:45,552:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 02 12.xlog cant be decodified  
+
+2020-05-04 19:40:45,810:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-05-04 19:40:45,810:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-05-04 19:40:45,841:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-05-04 19:40:49,090:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 07 21.xlogmorning_new está vacio 
+
+2020-05-04 19:40:49,090:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 07 21.xlogafternoon_new está vacio 
+
+2020-05-04 19:40:49,397:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-05-04 19:40:49,412:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-05-04 19:40:49,412:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:40:49,553:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-05-04 19:40:49,553:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-05-04 19:40:49,568:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-05-04 19:40:49,568:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 12 03.xlog cant be decodified  
+
+2020-05-04 19:40:50,053:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 12 21.xlog cant be decodified  
+
+2020-05-04 19:40:50,209:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 27.xlogmorning_new está vacio 
+
+2020-05-04 19:40:50,209:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 27.xlogafternoon_new está vacio 
+
+2020-05-04 19:40:52,458:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2016 12 29.xlog cant be decodified  
+
+2020-05-04 19:40:52,474:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2016 12 30.xlog cant be decodified  
+
+2020-05-04 19:40:54,725:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2017 02 20.xlog cant be decodified  
+
+2020-05-04 19:40:55,053:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 03 05.xlogmorning_new está vacio 
+
+2020-05-04 19:40:55,350:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-05-04 19:40:56,131:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-05-04 19:40:56,209:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-05-04 19:40:59,569:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2017 09 04.xlog cant be decodified  
+
+2020-05-04 19:41:00,257:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-05-04 19:41:00,257:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:00,382:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-05-04 19:41:00,522:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 29.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:00,553:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-05-04 19:41:00,600:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-05-04 19:41:00,600:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:01,334:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-05-04 19:41:01,584:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-05-04 19:41:01,584:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:01,631:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-05-04 19:41:02,506:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-05-04 19:41:02,772:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2018 01 09.xlog cant be decodified  
+
+2020-05-04 19:41:02,881:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2018 01 16.xlog cant be decodified  
+
+2020-05-04 19:41:04,443:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:04,912:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-05-04 19:41:04,912:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:10,194:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 08 10.xlogmorning_new está vacio 
+
+2020-05-04 19:41:10,194:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 08 10.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:10,803:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 04.xlogmorning_new está vacio 
+
+2020-05-04 19:41:10,803:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:10,850:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 12.xlogmorning_new está vacio 
+
+2020-05-04 19:41:11,475:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 06.xlogmorning_new está vacio 
+
+2020-05-04 19:41:12,334:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 29.xlogmorning_new está vacio 
+
+2020-05-04 19:41:12,334:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 29.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:15,380:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-05-04 19:41:15,380:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:15,412:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-05-04 19:41:18,137:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 07 21.xlogmorning_new está vacio 
+
+2020-05-04 19:41:18,137:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 07 21.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:18,418:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:18,450:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-05-04 19:41:18,450:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:18,575:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-05-04 19:41:18,575:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:18,590:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-05-04 19:41:18,590:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2019 12 03.xlog cant be decodified  
+
+2020-05-04 19:41:18,918:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2019 12 21.xlog cant be decodified  
+
+2020-05-04 19:41:19,043:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 27.xlogmorning_new está vacio 
+
+2020-05-04 19:41:19,043:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 27.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:22,074:get_data.py:71:WARNING:El subtitulo: subtitles\laSexta HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-04 19:41:22,074:get_data.py:73:WARNING:El subtitulo: subtitles\laSexta HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,059:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 10.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,059:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 10.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,081:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 16.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,081:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 16.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,099:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 17.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,099:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 17.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,111:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,111:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 18.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,127:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 19.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,127:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 19.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,143:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 20.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,143:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 20.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,143:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,158:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 24.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,158:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,174:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 25.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,174:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 25.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,189:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 16.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,189:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 16.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,219:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 17.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,219:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 17.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,235:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,236:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 18.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,244:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 19.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,244:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 19.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,275:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 20.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,276:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 20.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,285:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,300:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 24.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,300:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,311:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 25.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,327:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 26.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,327:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,342:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 27.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,342:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 27.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,358:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 30.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,358:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 30.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,374:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 01.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,374:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,389:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 02.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,389:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 02.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,405:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 03.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,405:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 03.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,426:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 04.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,426:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,438:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 07.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,438:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,454:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 08.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,454:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 08.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,469:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 09.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,469:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,485:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 10.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,485:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 10.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,501:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 11.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,501:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,501:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 14.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,501:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,524:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 15.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,524:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 15.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,537:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,537:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 16.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,545:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 17.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,545:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 17.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,545:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Oviedo.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,545:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 06 18.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,545:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 06 18.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,561:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 16.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,561:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 16.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,576:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 17.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,576:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 17.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,592:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,592:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 18.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,607:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 19.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,607:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 19.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,629:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 20.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,629:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 20.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,638:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,652:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 24.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,653:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,661:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 25.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,683:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 26.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,683:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,698:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 27.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,699:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 27.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,711:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 30.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,711:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 30.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,725:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 01.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,725:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,728:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 02.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,728:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 02.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,744:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 03.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,744:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 03.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,759:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 04.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,759:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,775:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 07.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,775:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,791:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 08.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,791:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 08.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,806:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 09.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,806:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,822:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 10.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,822:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 10.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,838:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 11.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,838:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,845:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 14.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,845:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,860:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 15.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,860:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 15.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,871:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,871:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 16.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,891:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 16.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,891:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 16.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,911:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 17.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,911:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 17.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,927:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,927:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 18.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,942:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 19.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,942:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 19.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,957:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 20.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,957:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 20.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,961:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,977:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 24.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,977:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:28,993:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 25.xlogmorning_new está vacio 
+
+2020-05-04 19:41:28,993:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 26.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,008:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,008:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 27.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,008:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 27.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,024:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 30.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,024:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 30.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,040:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 01.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,040:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,040:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 04.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,040:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,066:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 07.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,066:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,085:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 08.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,085:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 08.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,095:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 09.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,095:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,110:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 10.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,110:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 10.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,126:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 11.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,126:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,126:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 14.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,126:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,142:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 15.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,142:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 15.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,157:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,157:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 16.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,173:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 17.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,173:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 17.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,173:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Valladolid.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,173:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,259:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 21.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,259:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 21.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,272:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 22.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,339:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 25.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,377:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,408:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 28.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,408:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 29.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,465:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,531:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,553:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 05.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,567:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 06.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,594:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,633:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,665:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,680:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 12.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,696:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 13.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,727:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,743:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,743:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 17.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,768:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,768:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,773:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,829:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 21.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,829:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 21.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,843:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 22.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,900:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 25.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,927:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:29,959:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 28.xlogmorning_new está vacio 
+
+2020-05-04 19:41:29,978:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 29.xlogmorning_new está vacio 
+
+2020-05-04 19:41:30,011:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:30,079:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:30,091:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 05.xlogmorning_new está vacio 
+
+2020-05-04 19:41:30,095:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 06.xlogmorning_new está vacio 
+
+2020-05-04 19:41:30,133:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:30,161:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:30,218:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:30,227:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 12.xlogmorning_new está vacio 
+
+2020-05-04 19:41:30,227:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 13.xlogmorning_new está vacio 
+
+2020-05-04 19:41:30,259:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-05-04 19:41:30,301:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-05-04 19:41:30,305:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 17.xlogmorning_new está vacio 
+
+2020-05-04 19:41:30,318:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-04 19:41:30,318:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-04 19:44:35,358:get_data.py:71:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-04 19:44:35,358:get_data.py:73:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-04 19:44:36,264:get_data.py:71:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-04 19:44:36,264:get_data.py:73:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-04 19:44:39,357:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 29.xlog cant be decodified  
+
+2020-05-04 19:44:39,357:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 30.xlog cant be decodified  
+
+2020-05-04 19:44:42,058:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 02 20.xlog cant be decodified  
+
+2020-05-04 19:44:42,418:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 05.xlogmorning_new está vacio 
+
+2020-05-04 19:44:42,746:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-05-04 19:44:43,542:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-05-04 19:44:43,605:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-05-04 19:44:44,167:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 05 22.xlogafternoon_new está vacio 
+
+2020-05-04 19:44:47,605:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 09 04.xlog cant be decodified  
+
+2020-05-04 19:44:48,292:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-05-04 19:44:48,292:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 19:44:48,416:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-05-04 19:44:48,588:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 29.xlogafternoon_new está vacio 
+
+2020-05-04 19:44:48,604:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-05-04 19:44:48,651:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-05-04 19:44:48,651:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 19:44:49,469:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-05-04 19:44:49,718:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-05-04 19:44:49,718:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-05-04 19:44:49,781:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-05-04 19:44:50,828:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-05-04 19:44:51,124:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 09.xlog cant be decodified  
+
+2020-05-04 19:44:51,234:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 16.xlog cant be decodified  
+
+2020-05-04 19:44:52,905:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:44:53,405:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-05-04 19:44:53,405:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-05-04 19:44:55,718:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 06 23.xlog cant be decodified  
+
+2020-05-04 19:44:59,045:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 08 10.xlogmorning_new está vacio 
+
+2020-05-04 19:44:59,045:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 08 10.xlogafternoon_new está vacio 
+
+2020-05-04 19:44:59,642:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 04.xlogmorning_new está vacio 
+
+2020-05-04 19:44:59,642:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:44:59,689:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 12.xlogmorning_new está vacio 
+
+2020-05-04 19:45:01,548:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 10 29.xlogmorning_new está vacio 
+
+2020-05-04 19:45:01,548:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 10 29.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:04,861:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 02 12.xlog cant be decodified  
+
+2020-05-04 19:45:05,111:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-05-04 19:45:05,111:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:05,142:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-05-04 19:45:08,423:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 07 21.xlogmorning_new está vacio 
+
+2020-05-04 19:45:08,423:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 07 21.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:08,767:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:08,782:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-05-04 19:45:08,782:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:08,907:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-05-04 19:45:08,907:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:08,938:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-05-04 19:45:08,938:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 12 03.xlog cant be decodified  
+
+2020-05-04 19:45:09,407:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 12 21.xlog cant be decodified  
+
+2020-05-04 19:45:09,579:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 27.xlogmorning_new está vacio 
+
+2020-05-04 19:45:09,579:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 27.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:11,953:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2016 12 29.xlog cant be decodified  
+
+2020-05-04 19:45:11,969:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2016 12 30.xlog cant be decodified  
+
+2020-05-04 19:45:14,378:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2017 02 20.xlog cant be decodified  
+
+2020-05-04 19:45:14,722:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 03 05.xlogmorning_new está vacio 
+
+2020-05-04 19:45:15,019:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-05-04 19:45:15,784:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-05-04 19:45:15,846:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-05-04 19:45:19,316:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2017 09 04.xlog cant be decodified  
+
+2020-05-04 19:45:19,956:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-05-04 19:45:19,956:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:20,066:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-05-04 19:45:20,222:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 29.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:20,253:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-05-04 19:45:20,316:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-05-04 19:45:20,316:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:21,050:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-05-04 19:45:21,300:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-05-04 19:45:21,300:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:21,331:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-05-04 19:45:22,206:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-05-04 19:45:22,487:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2018 01 09.xlog cant be decodified  
+
+2020-05-04 19:45:22,581:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2018 01 16.xlog cant be decodified  
+
+2020-05-04 19:45:24,127:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:24,598:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-05-04 19:45:24,598:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:29,849:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 08 10.xlogmorning_new está vacio 
+
+2020-05-04 19:45:29,849:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 08 10.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:30,458:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 04.xlogmorning_new está vacio 
+
+2020-05-04 19:45:30,458:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:30,521:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 12.xlogmorning_new está vacio 
+
+2020-05-04 19:45:31,114:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 06.xlogmorning_new está vacio 
+
+2020-05-04 19:45:31,974:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 29.xlogmorning_new está vacio 
+
+2020-05-04 19:45:31,974:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 29.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:35,053:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-05-04 19:45:35,053:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:35,084:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-05-04 19:45:37,896:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 07 21.xlogmorning_new está vacio 
+
+2020-05-04 19:45:37,896:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 07 21.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:38,193:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:38,208:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-05-04 19:45:38,208:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:38,333:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-05-04 19:45:38,333:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:38,364:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-05-04 19:45:38,380:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2019 12 03.xlog cant be decodified  
+
+2020-05-04 19:45:38,692:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2019 12 21.xlog cant be decodified  
+
+2020-05-04 19:45:38,833:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 27.xlogmorning_new está vacio 
+
+2020-05-04 19:45:38,833:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 27.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:41,788:get_data.py:71:WARNING:El subtitulo: subtitles\laSexta HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-04 19:45:41,788:get_data.py:73:WARNING:El subtitulo: subtitles\laSexta HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,539:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 10.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,539:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 10.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,570:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 16.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,570:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 16.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,586:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 17.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,586:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 17.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,601:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,601:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 18.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,617:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 19.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,617:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 19.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,632:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 20.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,632:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 20.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,632:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,648:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 24.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,648:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,664:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 25.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,664:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 25.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,695:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 16.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,695:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 16.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,711:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 17.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,711:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 17.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,726:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,726:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 18.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,742:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 19.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,742:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 19.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,757:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 20.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,757:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 20.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,773:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,789:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 24.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,789:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,804:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 25.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,820:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 26.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,820:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,835:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 27.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,835:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 27.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,851:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 30.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,851:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 30.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,867:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 01.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,867:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,882:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 02.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,882:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 02.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,898:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 03.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,898:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 03.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,914:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 04.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,914:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,914:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 07.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,914:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,929:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 08.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,929:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 08.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,945:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 09.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,945:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,960:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 10.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,960:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 10.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,976:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 11.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,976:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:47,992:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 14.xlogmorning_new está vacio 
+
+2020-05-04 19:45:47,992:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,007:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 15.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,007:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 15.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,023:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,023:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 16.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,039:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 17.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,039:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 17.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,039:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Oviedo.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,039:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 06 18.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,039:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 06 18.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,054:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 16.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,054:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 16.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,070:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 17.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,070:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 17.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,085:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,085:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 18.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,085:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 19.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,085:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 19.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,101:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 20.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,101:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 20.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,117:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,132:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 24.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,132:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,148:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 25.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,164:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 26.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,164:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,164:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 27.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,164:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 27.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,179:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 30.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,179:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 30.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,195:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 01.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,195:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,210:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 02.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,210:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 02.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,226:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 03.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,226:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 03.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,242:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 04.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,242:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,257:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 07.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,257:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,273:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 08.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,273:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 08.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,289:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 09.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,289:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,304:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 10.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,304:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 10.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,320:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 11.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,320:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,320:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 14.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,320:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,335:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 15.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,335:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 15.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,351:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,351:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 16.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,367:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 16.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,367:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 16.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,382:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 17.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,382:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 17.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,398:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,398:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 18.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,414:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 19.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,414:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 19.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,429:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 20.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,429:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 20.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,429:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,445:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 24.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,445:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,460:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 25.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,476:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 26.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,476:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,492:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 27.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,492:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 27.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,507:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 30.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,507:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 30.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,523:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 01.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,523:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,523:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 04.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,523:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,538:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 07.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,538:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,554:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 08.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,554:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 08.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,570:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 09.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,570:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,585:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 10.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,585:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 10.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,601:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 11.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,601:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,601:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 14.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,601:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,617:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 15.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,617:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 15.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,617:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,617:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 16.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,632:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 17.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,632:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 17.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,632:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Valladolid.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,650:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,731:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 21.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,731:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 21.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,747:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 22.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,793:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 25.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,840:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,856:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 28.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,872:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 29.xlogmorning_new está vacio 
+
+2020-05-04 19:45:48,934:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,981:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:48,997:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 05.xlogmorning_new está vacio 
+
+2020-05-04 19:45:49,012:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 06.xlogmorning_new está vacio 
+
+2020-05-04 19:45:49,043:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:49,075:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:49,122:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:49,137:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 12.xlogmorning_new está vacio 
+
+2020-05-04 19:45:49,153:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 13.xlogmorning_new está vacio 
+
+2020-05-04 19:45:49,184:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:49,215:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-05-04 19:45:49,215:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 17.xlogmorning_new está vacio 
+
+2020-05-04 19:45:49,231:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-04 19:45:49,231:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:49,231:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 19:45:49,278:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 21.xlogmorning_new está vacio 
+
+2020-05-04 19:45:49,278:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 21.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:49,293:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 22.xlogmorning_new está vacio 
+
+2020-05-04 19:45:49,356:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 25.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:49,387:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:49,418:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 28.xlogmorning_new está vacio 
+
+2020-05-04 19:45:49,434:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 29.xlogmorning_new está vacio 
+
+2020-05-04 19:45:49,481:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:49,528:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:49,543:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 05.xlogmorning_new está vacio 
+
+2020-05-04 19:45:49,559:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 06.xlogmorning_new está vacio 
+
+2020-05-04 19:45:49,575:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:49,621:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:49,653:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:49,668:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 12.xlogmorning_new está vacio 
+
+2020-05-04 19:45:49,684:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 13.xlogmorning_new está vacio 
+
+2020-05-04 19:45:49,700:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-05-04 19:45:49,731:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-05-04 19:45:49,731:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 17.xlogmorning_new está vacio 
+
+2020-05-04 19:45:49,746:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-04 19:45:49,746:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-04 21:37:56,212:get_data.py:71:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-04 21:37:56,212:get_data.py:73:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-04 21:37:57,222:get_data.py:71:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-04 21:37:57,222:get_data.py:73:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:00,635:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 29.xlog cant be decodified  
+
+2020-05-04 21:38:00,642:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 30.xlog cant be decodified  
+
+2020-05-04 21:38:03,272:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 02 20.xlog cant be decodified  
+
+2020-05-04 21:38:03,670:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 05.xlogmorning_new está vacio 
+
+2020-05-04 21:38:04,038:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-05-04 21:38:04,990:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-05-04 21:38:05,071:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-05-04 21:38:05,690:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 05 22.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:09,602:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 09 04.xlog cant be decodified  
+
+2020-05-04 21:38:10,360:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-05-04 21:38:10,360:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:10,502:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-05-04 21:38:10,682:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 29.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:10,712:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-05-04 21:38:10,772:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-05-04 21:38:10,772:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:11,642:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-05-04 21:38:11,980:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-05-04 21:38:11,980:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:12,027:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-05-04 21:38:13,210:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-05-04 21:38:13,542:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 09.xlog cant be decodified  
+
+2020-05-04 21:38:13,752:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 16.xlog cant be decodified  
+
+2020-05-04 21:38:15,672:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:16,232:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-05-04 21:38:16,232:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:18,741:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 06 23.xlog cant be decodified  
+
+2020-05-04 21:38:22,412:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 08 10.xlogmorning_new está vacio 
+
+2020-05-04 21:38:22,412:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 08 10.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:23,128:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 04.xlogmorning_new está vacio 
+
+2020-05-04 21:38:23,128:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 04.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:23,172:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 12.xlogmorning_new está vacio 
+
+2020-05-04 21:38:25,302:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 10 29.xlogmorning_new está vacio 
+
+2020-05-04 21:38:25,302:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 10 29.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:29,102:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 02 12.xlog cant be decodified  
+
+2020-05-04 21:38:29,387:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-05-04 21:38:29,387:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:29,422:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-05-04 21:38:33,044:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 07 21.xlogmorning_new está vacio 
+
+2020-05-04 21:38:33,044:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 07 21.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:33,382:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:33,412:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-05-04 21:38:33,413:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:33,560:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-05-04 21:38:33,560:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:33,582:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-05-04 21:38:33,592:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 12 03.xlog cant be decodified  
+
+2020-05-04 21:38:34,160:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 12 21.xlog cant be decodified  
+
+2020-05-04 21:38:34,332:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 27.xlogmorning_new está vacio 
+
+2020-05-04 21:38:34,332:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 27.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:36,842:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2016 12 29.xlog cant be decodified  
+
+2020-05-04 21:38:36,850:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2016 12 30.xlog cant be decodified  
+
+2020-05-04 21:38:39,472:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2017 02 20.xlog cant be decodified  
+
+2020-05-04 21:38:39,862:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 03 05.xlogmorning_new está vacio 
+
+2020-05-04 21:38:40,217:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-05-04 21:38:41,103:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-05-04 21:38:41,182:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-05-04 21:38:45,012:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2017 09 04.xlog cant be decodified  
+
+2020-05-04 21:38:45,734:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-05-04 21:38:45,734:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:45,870:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-05-04 21:38:46,022:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 29.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:46,054:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-05-04 21:38:46,109:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-05-04 21:38:46,110:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:46,916:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-05-04 21:38:47,190:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-05-04 21:38:47,190:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:47,232:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-05-04 21:38:48,232:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-05-04 21:38:48,552:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2018 01 09.xlog cant be decodified  
+
+2020-05-04 21:38:48,672:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2018 01 16.xlog cant be decodified  
+
+2020-05-04 21:38:50,380:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:50,953:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-05-04 21:38:50,953:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:56,772:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 08 10.xlogmorning_new está vacio 
+
+2020-05-04 21:38:56,772:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 08 10.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:57,422:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 04.xlogmorning_new está vacio 
+
+2020-05-04 21:38:57,422:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 04.xlogafternoon_new está vacio 
+
+2020-05-04 21:38:57,473:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 12.xlogmorning_new está vacio 
+
+2020-05-04 21:38:58,116:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 06.xlogmorning_new está vacio 
+
+2020-05-04 21:38:59,112:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 29.xlogmorning_new está vacio 
+
+2020-05-04 21:38:59,112:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 29.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:02,587:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-05-04 21:39:02,587:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:02,625:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-05-04 21:39:05,662:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 07 21.xlogmorning_new está vacio 
+
+2020-05-04 21:39:05,662:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 07 21.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:05,982:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:06,004:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-05-04 21:39:06,004:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:06,142:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-05-04 21:39:06,142:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:06,170:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-05-04 21:39:06,172:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2019 12 03.xlog cant be decodified  
+
+2020-05-04 21:39:06,540:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2019 12 21.xlog cant be decodified  
+
+2020-05-04 21:39:06,690:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 27.xlogmorning_new está vacio 
+
+2020-05-04 21:39:06,690:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 27.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:09,922:get_data.py:71:WARNING:El subtitulo: subtitles\laSexta HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-04 21:39:09,922:get_data.py:73:WARNING:El subtitulo: subtitles\laSexta HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:16,592:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 10.xlogmorning_new está vacio 
+
+2020-05-04 21:39:16,592:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 10.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:16,620:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 16.xlogmorning_new está vacio 
+
+2020-05-04 21:39:16,620:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 16.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:16,640:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 17.xlogmorning_new está vacio 
+
+2020-05-04 21:39:16,640:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 17.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:16,659:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 21:39:16,659:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 18.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:16,672:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 19.xlogmorning_new está vacio 
+
+2020-05-04 21:39:16,672:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 19.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:16,692:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 20.xlogmorning_new está vacio 
+
+2020-05-04 21:39:16,692:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 20.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:16,702:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:16,724:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 24.xlogmorning_new está vacio 
+
+2020-05-04 21:39:16,724:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:16,742:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 25.xlogmorning_new está vacio 
+
+2020-05-04 21:39:16,742:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 25.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:16,770:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 16.xlogmorning_new está vacio 
+
+2020-05-04 21:39:16,770:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 16.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:16,795:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 17.xlogmorning_new está vacio 
+
+2020-05-04 21:39:16,795:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 17.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:16,821:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 21:39:16,822:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 18.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:16,844:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 19.xlogmorning_new está vacio 
+
+2020-05-04 21:39:16,844:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 19.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:16,862:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 20.xlogmorning_new está vacio 
+
+2020-05-04 21:39:16,865:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 20.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:16,877:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:16,897:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 24.xlogmorning_new está vacio 
+
+2020-05-04 21:39:16,897:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:16,913:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 25.xlogmorning_new está vacio 
+
+2020-05-04 21:39:16,935:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 26.xlogmorning_new está vacio 
+
+2020-05-04 21:39:16,935:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:16,962:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 27.xlogmorning_new está vacio 
+
+2020-05-04 21:39:16,962:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 27.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:16,980:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 30.xlogmorning_new está vacio 
+
+2020-05-04 21:39:16,980:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 30.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,000:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 01.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,000:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,020:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 02.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,020:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 02.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,037:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 03.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,037:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 03.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,056:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 04.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,056:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,070:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 07.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,070:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,090:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 08.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,090:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 08.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,110:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 09.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,110:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,124:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 10.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,130:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 10.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,150:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 11.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,150:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,152:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 14.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,152:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,172:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 15.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,172:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 15.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,190:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,190:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 16.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,210:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 17.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,210:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 17.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,213:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Oviedo.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,213:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 06 18.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,213:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 06 18.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,233:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 16.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,234:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 16.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,250:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 17.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,252:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 17.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,270:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,270:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 18.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,290:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 19.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,290:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 19.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,310:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 20.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,310:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 20.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,320:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,340:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 24.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,340:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,360:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 25.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,377:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 26.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,377:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,395:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 27.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,395:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 27.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,413:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 30.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,413:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 30.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,432:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 01.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,432:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,452:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 02.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,452:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 02.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,472:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 03.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,472:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 03.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,494:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 04.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,494:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,502:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 07.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,502:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,522:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 08.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,522:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 08.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,542:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 09.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,542:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,562:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 10.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,562:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 10.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,582:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 11.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,582:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,582:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 14.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,582:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,603:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 15.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,603:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 15.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,620:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,620:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 16.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,642:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 16.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,642:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 16.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,668:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 17.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,668:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 17.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,687:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,687:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 18.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,702:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 19.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,702:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 19.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,725:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 20.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,725:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 20.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,737:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,752:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 24.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,752:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,772:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 25.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,794:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 26.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,794:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,814:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 27.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,814:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 27.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,830:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 30.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,830:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 30.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,842:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 01.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,842:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,857:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 04.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,857:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,870:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 07.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,870:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,890:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 08.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,890:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 08.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,907:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 09.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,907:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,925:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 10.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,925:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 10.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,943:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 11.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,943:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,952:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 14.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,952:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,972:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 15.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,972:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 15.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:17,982:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-05-04 21:39:17,982:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 16.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:18,003:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 17.xlogmorning_new está vacio 
+
+2020-05-04 21:39:18,003:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 17.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:18,003:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Valladolid.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:18,014:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 21:39:18,090:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 21.xlogmorning_new está vacio 
+
+2020-05-04 21:39:18,092:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 21.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:18,107:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 22.xlogmorning_new está vacio 
+
+2020-05-04 21:39:18,170:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 25.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:18,214:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:18,246:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 28.xlogmorning_new está vacio 
+
+2020-05-04 21:39:18,262:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 29.xlogmorning_new está vacio 
+
+2020-05-04 21:39:18,314:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:18,387:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:18,412:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 05.xlogmorning_new está vacio 
+
+2020-05-04 21:39:18,427:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 06.xlogmorning_new está vacio 
+
+2020-05-04 21:39:18,462:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:18,520:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:18,563:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:18,582:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 12.xlogmorning_new está vacio 
+
+2020-05-04 21:39:18,598:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 13.xlogmorning_new está vacio 
+
+2020-05-04 21:39:18,632:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:18,660:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-05-04 21:39:18,662:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 17.xlogmorning_new está vacio 
+
+2020-05-04 21:39:18,675:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-04 21:39:18,675:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:18,682:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 21:39:18,744:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 21.xlogmorning_new está vacio 
+
+2020-05-04 21:39:18,744:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 21.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:18,762:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 22.xlogmorning_new está vacio 
+
+2020-05-04 21:39:18,822:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 25.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:18,872:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:18,902:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 28.xlogmorning_new está vacio 
+
+2020-05-04 21:39:18,915:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 29.xlogmorning_new está vacio 
+
+2020-05-04 21:39:18,963:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:19,027:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:19,044:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 05.xlogmorning_new está vacio 
+
+2020-05-04 21:39:19,062:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 06.xlogmorning_new está vacio 
+
+2020-05-04 21:39:19,092:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:19,152:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:19,204:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:19,222:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 12.xlogmorning_new está vacio 
+
+2020-05-04 21:39:19,240:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 13.xlogmorning_new está vacio 
+
+2020-05-04 21:39:19,273:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-05-04 21:39:19,307:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-05-04 21:39:19,312:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 17.xlogmorning_new está vacio 
+
+2020-05-04 21:39:19,322:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-04 21:39:19,322:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-04 23:01:35,763:get_data.py:71:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-04 23:01:35,763:get_data.py:73:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-04 23:01:36,939:get_data.py:71:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-04 23:01:36,939:get_data.py:73:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-04 23:01:41,659:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 29.xlog cant be decodified  
+
+2020-05-04 23:01:41,674:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 30.xlog cant be decodified  
+
+2020-05-04 23:01:45,515:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 02 20.xlog cant be decodified  
+
+2020-05-04 23:01:46,098:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 05.xlogmorning_new está vacio 
+
+2020-05-04 23:01:46,617:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-05-04 23:01:47,736:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-05-04 23:01:47,818:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-05-04 23:01:48,623:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 05 22.xlogafternoon_new está vacio 
+
+2020-05-04 23:01:56,460:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 09 04.xlog cant be decodified  
+
+2020-05-04 23:01:57,580:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-05-04 23:01:57,581:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 23:01:57,729:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-05-04 23:01:57,895:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 29.xlogafternoon_new está vacio 
+
+2020-05-04 23:01:57,926:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-05-04 23:01:57,973:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-05-04 23:01:57,973:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 23:01:58,900:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-05-04 23:01:59,369:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-05-04 23:01:59,369:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-05-04 23:01:59,441:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-05-04 23:02:01,271:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-05-04 23:02:01,626:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 09.xlog cant be decodified  
+
+2020-05-04 23:02:01,748:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 16.xlog cant be decodified  
+
+2020-05-04 23:02:05,529:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-05-04 23:02:06,556:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-05-04 23:02:06,556:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-05-04 23:02:10,034:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 06 23.xlog cant be decodified  
+
+2020-05-04 23:02:13,987:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 08 10.xlogmorning_new está vacio 
+
+2020-05-04 23:02:13,987:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 08 10.xlogafternoon_new está vacio 
+
+2020-05-04 23:02:14,767:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 04.xlogmorning_new está vacio 
+
+2020-05-04 23:02:14,767:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 04.xlogafternoon_new está vacio 
+
+2020-05-04 23:02:14,835:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 12.xlogmorning_new está vacio 
+
+2020-05-04 23:02:18,405:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 10 29.xlogmorning_new está vacio 
+
+2020-05-04 23:02:18,405:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 10 29.xlogafternoon_new está vacio 
+
+2020-05-04 23:02:22,945:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 02 12.xlog cant be decodified  
+
+2020-05-04 23:02:23,286:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-05-04 23:02:23,286:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-05-04 23:02:23,327:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-05-04 23:02:27,871:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 07 21.xlogmorning_new está vacio 
+
+2020-05-04 23:02:27,871:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 07 21.xlogafternoon_new está vacio 
+
+2020-05-04 23:02:28,331:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-05-04 23:02:28,360:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-05-04 23:02:28,360:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-05-04 23:02:28,582:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-05-04 23:02:28,582:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-05-04 23:02:28,610:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-05-04 23:02:28,621:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 12 03.xlog cant be decodified  
+
+2020-05-04 23:02:30,485:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 12 21.xlog cant be decodified  
+
+2020-05-04 23:02:30,769:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 27.xlogmorning_new está vacio 
+
+2020-05-04 23:02:30,770:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 27.xlogafternoon_new está vacio 
+
+2020-05-04 23:02:35,096:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2016 12 29.xlog cant be decodified  
+
+2020-05-04 23:02:35,105:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2016 12 30.xlog cant be decodified  
+
+2020-05-04 23:02:37,941:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2017 02 20.xlog cant be decodified  
+
+2020-05-04 23:02:38,459:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 03 05.xlogmorning_new está vacio 
+
+2020-05-04 23:02:38,846:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-05-04 23:02:40,051:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-05-04 23:02:40,156:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-05-04 23:02:44,466:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2017 09 04.xlog cant be decodified  
+
+2020-05-04 23:02:45,228:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-05-04 23:02:45,228:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 23:02:45,367:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-05-04 23:02:45,556:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 29.xlogafternoon_new está vacio 
+
+2020-05-04 23:02:45,588:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-05-04 23:02:45,635:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-05-04 23:02:45,635:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 23:02:46,496:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-05-04 23:02:46,777:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-05-04 23:02:46,777:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-05-04 23:02:46,824:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-05-04 23:02:47,835:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-05-04 23:02:48,148:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2018 01 09.xlog cant be decodified  
+
+2020-05-04 23:02:48,273:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2018 01 16.xlog cant be decodified  
+
+2020-05-04 23:02:50,200:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-05-04 23:02:51,435:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-05-04 23:02:51,435:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-05-04 23:02:57,746:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 08 10.xlogmorning_new está vacio 
+
+2020-05-04 23:02:57,746:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 08 10.xlogafternoon_new está vacio 
+
+2020-05-04 23:02:58,340:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 04.xlogmorning_new está vacio 
+
+2020-05-04 23:02:58,340:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 04.xlogafternoon_new está vacio 
+
+2020-05-04 23:02:58,387:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 12.xlogmorning_new está vacio 
+
+2020-05-04 23:02:59,027:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 06.xlogmorning_new está vacio 
+
+2020-05-04 23:02:59,918:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 29.xlogmorning_new está vacio 
+
+2020-05-04 23:02:59,918:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 29.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:03,093:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-05-04 23:03:03,093:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:03,125:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-05-04 23:03:06,002:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 07 21.xlogmorning_new está vacio 
+
+2020-05-04 23:03:06,002:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 07 21.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:06,303:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:06,319:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-05-04 23:03:06,319:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:06,460:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-05-04 23:03:06,460:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:06,475:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-05-04 23:03:06,491:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2019 12 03.xlog cant be decodified  
+
+2020-05-04 23:03:06,834:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2019 12 21.xlog cant be decodified  
+
+2020-05-04 23:03:06,975:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 27.xlogmorning_new está vacio 
+
+2020-05-04 23:03:06,975:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 27.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:10,530:get_data.py:71:WARNING:El subtitulo: subtitles\laSexta HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-04 23:03:10,530:get_data.py:73:WARNING:El subtitulo: subtitles\laSexta HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,359:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 10.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,359:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 10.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,374:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 16.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,374:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 16.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,406:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 17.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,406:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 17.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,421:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,421:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 18.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,437:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 19.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,437:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 19.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,453:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 20.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,453:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 20.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,468:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,484:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 24.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,484:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,499:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 25.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,499:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Madrid.st 2019 09 25.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,531:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 16.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,531:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 16.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,546:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 17.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,546:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 17.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,562:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,562:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 18.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,578:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 19.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,578:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 19.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,593:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 20.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,593:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 20.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,609:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,624:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 24.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,624:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,640:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 25.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,657:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 26.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,657:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,673:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 27.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,673:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 27.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,688:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 30.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,688:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 09 30.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,704:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 01.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,704:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,735:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 02.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,735:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 02.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,751:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 03.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,751:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 03.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,766:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 04.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,766:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,782:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 07.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,782:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,798:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 08.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,798:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 08.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,813:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 09.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,813:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,829:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 10.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,829:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 10.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,845:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 11.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,845:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,845:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 14.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,845:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,860:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 15.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,860:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 15.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,876:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,876:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 16.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,891:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 17.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,891:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Merida.st 2019 10 17.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,891:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Oviedo.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,891:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 06 18.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,891:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 06 18.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,907:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 16.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,907:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 16.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,923:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 17.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,923:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 17.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,938:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,938:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 18.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,954:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 19.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,954:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 19.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:16,969:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 20.xlogmorning_new está vacio 
+
+2020-05-04 23:03:16,969:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 20.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,016:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,032:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 24.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,032:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,048:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 25.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,063:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 26.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,063:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,079:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 27.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,079:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 27.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,094:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 30.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,094:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 09 30.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,110:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 01.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,110:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,126:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 02.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,126:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 02.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,141:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 03.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,141:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 03.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,157:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 04.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,157:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,173:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 07.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,173:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,188:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 08.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,188:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 08.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,204:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 09.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,204:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,219:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 10.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,219:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 10.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,235:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 11.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,235:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,251:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 14.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,251:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,266:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 15.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,266:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 15.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,282:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,282:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Sevilla.st 2019 10 16.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,297:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 16.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,297:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 16.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,313:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 17.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,313:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 17.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,344:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,344:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 18.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,360:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 19.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,360:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 19.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,376:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 20.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,376:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 20.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,376:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,391:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 24.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,391:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 24.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,407:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 25.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,438:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 26.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,438:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,454:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 27.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,454:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 27.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,469:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 30.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,469:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 09 30.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,485:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 01.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,485:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,485:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 04.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,485:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,501:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 07.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,501:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,516:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 08.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,516:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 08.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,532:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 09.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,532:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,547:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 10.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,547:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 10.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,563:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 11.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,563:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,579:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 14.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,579:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,594:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 15.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,594:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 15.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,594:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,594:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 16.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,626:get_data.py:71:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 17.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,626:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Toledo.st 2019 10 17.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,626:get_data.py:73:WARNING:El subtitulo: subtitles\RTVE-La1-Valladolid.st 2019 09 23.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,626:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,692:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 21.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,692:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 21.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,709:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 22.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,765:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 25.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,799:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,830:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 28.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,846:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 29.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,893:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,955:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:17,971:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 05.xlogmorning_new está vacio 
+
+2020-05-04 23:03:17,986:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 06.xlogmorning_new está vacio 
+
+2020-05-04 23:03:18,018:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:18,064:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:18,096:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:18,111:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 12.xlogmorning_new está vacio 
+
+2020-05-04 23:03:18,127:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 13.xlogmorning_new está vacio 
+
+2020-05-04 23:03:18,158:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:18,189:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-05-04 23:03:18,189:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 17.xlogmorning_new está vacio 
+
+2020-05-04 23:03:18,205:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-04 23:03:18,205:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:18,534:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-05-04 23:03:18,580:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 21.xlogmorning_new está vacio 
+
+2020-05-04 23:03:18,580:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 21.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:18,596:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 22.xlogmorning_new está vacio 
+
+2020-05-04 23:03:18,658:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 25.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:18,705:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:18,721:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 28.xlogmorning_new está vacio 
+
+2020-05-04 23:03:18,736:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 29.xlogmorning_new está vacio 
+
+2020-05-04 23:03:18,783:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:18,846:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:18,861:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 05.xlogmorning_new está vacio 
+
+2020-05-04 23:03:18,877:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 06.xlogmorning_new está vacio 
+
+2020-05-04 23:03:18,892:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:18,939:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:18,986:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:19,002:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 12.xlogmorning_new está vacio 
+
+2020-05-04 23:03:19,017:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 13.xlogmorning_new está vacio 
+
+2020-05-04 23:03:19,033:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-05-04 23:03:19,064:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-05-04 23:03:19,064:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 17.xlogmorning_new está vacio 
+
+2020-05-04 23:03:19,080:get_data.py:71:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-04 23:03:19,080:get_data.py:73:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
