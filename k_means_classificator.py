@@ -33,17 +33,17 @@ from sklearn.cluster import KMeans
 from unsupervised_learning_gensim import LDAmodel
 from unsupervised_learning_gensim import printColorWordDocument
 
-N_TOPICS = 50
+N_TOPICS = 100
 #este parámetro no se puede añadir a mano
 n_documents =4000
 n_printedDocuments =50
-[array_topic_per_document, best_n_topic, dic_subtitles,lda,generator_normalize,corpus,id2word]=LDAmodel(n_topics=N_TOPICS,n_documents=n_documents, n_printedDocuments=n_printedDocuments)
-
+[array_topic_per_document, best_n_topic, dic_subtitles,lda,generator_normalize,corpus,id2word,coherenceModelArray]=LDAmodel(n_topics=N_TOPICS,n_documents=n_documents, n_printedDocuments=n_printedDocuments)
+"""
 for i in range(n_documents):
     fig, ax = plt.subplots()   # Declares a figure handle
     ax.plot(np.arange(0,best_n_topic,1),array_topic_per_document[i],'-*',label=list(dic_subtitles.keys())[i])
     ax.legend()
-
+"""
 #Este for, es el que quiero que en el futuro te ponga una palabra clave que te describa el documento, 
 #me da igual hacerlo, cogiendo la palabra más usada del tópico con machine learning, por ejemplo un perceptrón: no sé
 title=[]
@@ -54,7 +54,7 @@ dataframe = pd.DataFrame(array_topic_per_document.T, dtype="str", index=title)
 
 
 print("validating number of clusters...")
-Number_clusters = range(1, n_documents)
+Number_clusters = range(1, 200)
 #existen muchisimas variables que se puden cambiar, y que probablemente haya que parametrizar, y probablemente validar
 #darle un buen repaso a este tema
 kmeans = [KMeans(n_clusters=i) for i in Number_clusters]
@@ -84,6 +84,7 @@ plt.vlines(kn.knee, plt.ylim()[0], plt.ylim()[1], linestyles='dashed')
 k_means_optimized = KMeans(n_clusters=kn.knee).fit(array_topic_per_document)
 
 #IMPRIMIR DOCUMENTOS DE WORD--------------------------------------------------------------
+
 lda_model = gensim.models.ldamodel.LdaModel(corpus=corpus,
                                                id2word=id2word,
                                                num_topics=best_n_topic, 
