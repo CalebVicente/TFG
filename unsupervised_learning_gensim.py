@@ -114,7 +114,8 @@ def LDAmodel( n_topics, n_documents, n_printedDocuments, step=1, start=1):
     coherencemodelArray=[]
     try: 
         generator_normalize = pickle.load(open("pickle\generator_normalize_"+str(n_documents)+".txt", "rb"))
-        dic_subtitles = pickle.load(open("pickle\dic_subtitles_"+str(n_documents)+".txt", "rb"))
+        dic_subtitles = pickle.load(open("pickle\dic_subtitles_"+str(n_documents)+".pickle", "rb"))
+        #[generator_normalize, dic_subtitles]=create_corpus(n_documents)
         id2word = pickle.load(open("pickle\id2word_"+str(n_documents)+".txt", "rb"))
         corpus = pickle.load(open("pickle\corpus_"+str(n_documents)+".txt", "rb"))
         print("generator_normalize, id2word and corpus has been imported")
@@ -124,8 +125,8 @@ def LDAmodel( n_topics, n_documents, n_printedDocuments, step=1, start=1):
         file_generator_normalize = 'pickle\generator_normalize_'+str(n_documents)+'.txt'
         pickle.dump(generator_normalize, open(file_generator_normalize, 'wb'))
         
-        file_dic_subtitles = 'pickle\dic_subtitles_'+str(n_documents)+'.txt'
-        pickle.dump(file_dic_subtitles, open(file_dic_subtitles, 'wb'))
+        file_dic_subtitles = 'pickle\dic_subtitles_'+str(n_documents)+'.pickle'
+        pickle.dump(dic_subtitles, open(file_dic_subtitles, 'wb'))
         #this is creating a dictionary with all de different words of the document
         id2word = corpora.Dictionary(generator_normalize)
         file_id2word = 'pickle\id2word_'+str(n_documents)+'.txt'
@@ -156,9 +157,11 @@ def LDAmodel( n_topics, n_documents, n_printedDocuments, step=1, start=1):
             #function based on : https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#13viewthetopicsinldamodel
             coherencemodelArray.append(training_model(n_documents,n_topics,id2word,corpus))                
             toc_all_processing=timeit.default_timer()
-            time_lda_fit=str(datetime.timedelta(seconds=int(float(toc_all_processing-tic_all_processing))))
-            print("The process of training lda model with "+str(n_topics)+" n_topics and "+str(n_documents)+" n_documents, has taken "+time_lda_fit+" seconds")    
-            print("Trained_completed")
+            try: 
+                time_lda_fit=str(datetime.timedelta(seconds=int(float(toc_all_processing-tic_all_processing))))
+                print("The process of training lda model with "+str(n_topics)+" n_topics and "+str(n_documents)+" n_documents, has taken "+time_lda_fit+" seconds")    
+            except AttributeError: 
+                print("The process of training lda model with "+str(n_topics)+" n_topics and "+str(n_documents)+" n_documents, has ended")
                 
     
     x = range(start, n_topics+1, step)
