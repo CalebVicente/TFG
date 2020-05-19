@@ -50,7 +50,7 @@ def normalize(text):
         #the thing is that as far as i know patter only works in python 2
         token = lemma(token)
         token = snowball.stem(token)
-        if token not in stopwords and token not in punctuation and len(token)>3:
+        if token not in stopwords and token not in punctuation and token != "0000000000000000000000000000000000000000" and len(token)>3:
             #we do it with yield to create a generator, too much faster, and when less memory problems than a list
             yield token
             
@@ -72,6 +72,7 @@ def normalize_word(word):
     return word
             
 def create_corpus(n_documents):
+    from tqdm import tqdm
     #tic and toc are used to know how many time the process of extaction has taken
     tic=timeit.default_timer()
     
@@ -80,12 +81,13 @@ def create_corpus(n_documents):
     #the rows where the value is empty are removed.
     dic_subtitles = {key:value for (key,value) in dic_subtitles.items() if value != ""}
     #this line can cut the dictionary of document to make faster
-    dic_subtitles= dict(itertools.islice(dic_subtitles.items(), 0, n_documents))
+    #dic_subtitles= dict(itertools.islice(dic_subtitles.items(), 0, n_documents))
     
     #list with all the element tokenized
     list_subt_token = [word_tokenize(value) for (key,value) in dic_subtitles.items()]
-    
-    generator_normalize = [list(normalize(document)) for document in list_subt_token]
+    print("Creation of generator normalize")
+    generator_normalize = [list(normalize(document)) for document in tqdm(list_subt_token)]
+    generator_normalize = list(generator_normalize)
     """
     #this code is only necesary when we are using sklearn
     vectorizer_first = CountVectorizer()

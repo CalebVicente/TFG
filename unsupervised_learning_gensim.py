@@ -41,7 +41,7 @@ logging.basicConfig(filename=name_log_file, level=logging.WARNING,
 
 
 
-def printColorWordDocument(number,colors,generator_normalize,dic_subtitles,lda_model,corpus):
+def printColorWordDocument(number,colors,generator_normalize,dic_subtitles,lda_model,corpus,n_documents):
     #make an explanation of every of the parameters of this function
     corp_cur = corpus[number] 
     topic_percs, wordid_topics, wordid_phivalues = lda_model[corp_cur]
@@ -76,11 +76,11 @@ def printColorWordDocument(number,colors,generator_normalize,dic_subtitles,lda_m
     paragraph = document.add_paragraph()
     [wordToDocument(word,colors[topic]) for word,topic in document_classified]
     
-    word_subtitles_colors="word"+list(dic_subtitles.keys())[number][9:-1]+".docx"
+    word_subtitles_colors="word\\"+str(n_documents)+"\\"+list(dic_subtitles.keys())[number][9:-1]+".docx"
     document.save(word_subtitles_colors)
     
 
-def training_model(n_documents,n_topics,id2word, corpus):
+def training_model(n_documents,n_topics,id2word, corpus, generator_normalize):
     #ESCRIBIR QUE HACE ESTA FUNCIÓN Y PARA QUE SIRVE CADA UNO DE SUS PARÁMETROS
     
     
@@ -99,53 +99,59 @@ def training_model(n_documents,n_topics,id2word, corpus):
     
     #tengo bastantes dudas si en el parámetro texts tengo que poner generator_normalize o no
     coherencemodel = CoherenceModel(model=lda_model, corpus=corpus, dictionary=id2word, coherence='u_mass')
+    #coherencemodel = CoherenceModel(model=lda_model, texts=list(generator_normalize), dictionary=id2word, coherence='c_v')
     coherence_values = coherencemodel.get_coherence()
     #the model is gonna be saved
     # if the number of subtitles doest change, we can use the same model than the last time
-    
-    file_lda_model = 'pickle\lda_model_'+str(n_topics)+'_'+str(n_documents)+'.sav'
+    file_lda_model = 'pickle\\'+str(n_documents)+'\lda_model_'+str(n_topics)+'_'+str(n_documents)+'.sav'
     pickle.dump(lda_model, open(file_lda_model, 'wb'))
     
     return coherence_values
+
 
 #PROGRAM......................................................................
 def LDAmodel( n_topics, n_documents, n_printedDocuments, step=1, start=1):   
     #Tengo que escribir para que sirve cada cosa que hace el gensim
     coherencemodelArray=[]
+    
+    if not os.path.exists('pickle\\'+str(n_documents)):
+        os.makedirs('pickle\\'+str(n_documents))
     try: 
-        generator_normalize = pickle.load(open("pickle\generator_normalize_"+str(n_documents)+".txt", "rb"))
-        dic_subtitles = pickle.load(open("pickle\dic_subtitles_"+str(n_documents)+".pickle", "rb"))
+        generator_normalize = pickle.load(open("pickle\\"+str(n_documents)+"\generator_normalize_"+str(n_documents)+".txt", "rb"))
+        dic_subtitles = pickle.load(open("pickle\\"+str(n_documents)+"\dic_subtitles_"+str(n_documents)+".pickle", "rb"))
         #[generator_normalize, dic_subtitles]=create_corpus(n_documents)
-        id2word = pickle.load(open("pickle\id2word_"+str(n_documents)+".txt", "rb"))
-        corpus = pickle.load(open("pickle\corpus_"+str(n_documents)+".txt", "rb"))
+        id2word = pickle.load(open("pickle\\"+str(n_documents)+"\id2word_"+str(n_documents)+".txt", "rb"))
+        corpus = pickle.load(open("pickle\\"+str(n_documents)+"\corpus_"+str(n_documents)+".txt", "rb"))
         print("generator_normalize, id2word and corpus has been imported")
     except IOError:
         print(" the corpus with: "+str(n_topics)+" is being created...")
         [generator_normalize, dic_subtitles]=create_corpus(n_documents)
-        file_generator_normalize = 'pickle\generator_normalize_'+str(n_documents)+'.txt'
+        file_generator_normalize = "pickle\\"+str(n_documents)+"\generator_normalize_"+str(n_documents)+'.txt'
         pickle.dump(generator_normalize, open(file_generator_normalize, 'wb'))
         
-        file_dic_subtitles = 'pickle\dic_subtitles_'+str(n_documents)+'.pickle'
+        file_dic_subtitles = "pickle\\"+str(n_documents)+"\dic_subtitles_"+str(n_documents)+'.pickle'
         pickle.dump(dic_subtitles, open(file_dic_subtitles, 'wb'))
         #this is creating a dictionary with all de different words of the document
         id2word = corpora.Dictionary(generator_normalize)
-        file_id2word = 'pickle\id2word_'+str(n_documents)+'.txt'
+        file_id2word = "pickle\\"+str(n_documents)+"\id2word_"+str(n_documents)+'.txt'
         pickle.dump(id2word, open(file_id2word, 'wb'))
         # Create Corpus: Term Document Frequency
         corpus = [id2word.doc2bow(text) for text in generator_normalize]
-        file_corpus = 'pickle\corpus_'+str(n_documents)+'.txt'
+        file_corpus = "pickle\\"+str(n_documents)+"\corpus_"+str(n_documents)+'.txt'
         pickle.dump(corpus, open(file_corpus, 'wb'))
         
         print("Proccess of creating corpus has ended")
     
     for n_topics in range(start, n_topics, step):
-        file_lda_model = 'pickle\lda_model_'+str(n_topics)+'_'+str(n_documents)+'.sav'
+        file_lda_model = 'pickle\\'+str(n_documents)+'\lda_model_'+str(n_topics)+'_'+str(n_documents)+'.sav'
         try:
            
             f=open(file_lda_model, 'rb')
             lda = pickle.load(f)
             print("The model has been trained previously with..."+str(n_topics)+" n_topics")            
             coherencemodel = CoherenceModel(model=lda, corpus=corpus, dictionary=id2word, coherence='u_mass')
+            #CoherenceModel(model=goodLdaModel, texts=texts, dictionary=dictionary, coherence='c_v')
+            #coherencemodel = CoherenceModel(model=lda, texts=list(generator_normalize), dictionary=id2word, coherence='c_v')
             coherence_values = coherencemodel.get_coherence()
             coherencemodelArray.append(coherence_values)
             
@@ -155,7 +161,7 @@ def LDAmodel( n_topics, n_documents, n_printedDocuments, step=1, start=1):
             
             tic_all_processing=timeit.default_timer()
             #function based on : https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#13viewthetopicsinldamodel
-            coherencemodelArray.append(training_model(n_documents,n_topics,id2word,corpus))                
+            coherencemodelArray.append(training_model(n_documents,n_topics,id2word,corpus,generator_normalize))                
             toc_all_processing=timeit.default_timer()
             try: 
                 time_lda_fit=str(datetime.timedelta(seconds=int(float(toc_all_processing-tic_all_processing))))
@@ -173,8 +179,8 @@ def LDAmodel( n_topics, n_documents, n_printedDocuments, step=1, start=1):
     plt.show()
     
     best_n_topic=coherencemodelArray.index(min(coherencemodelArray))+start
-    print("el mejor modelo es: "+'pickle\lda_model_'+str(best_n_topic)+'_'+str(n_documents)+'.sav')
-    f=open('pickle\lda_model_'+str(best_n_topic)+'_'+str(n_documents)+'.sav', 'rb')
+    print("el mejor modelo es: "+'pickle'+str(n_documents)+'\lda_model_'+str(best_n_topic)+'_'+str(n_documents)+'.sav')
+    f=open('pickle\\'+str(n_documents)+'\lda_model_'+str(best_n_topic)+'_'+str(n_documents)+'.sav', 'rb')
     lda = pickle.load(f)
     document_per_topic=list(lda.get_document_topics(corpus))
     """

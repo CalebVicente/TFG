@@ -14,6 +14,20 @@ import timeit
 import progressbar
 from tqdm import tqdm
 
+def get_NameFiles():
+    path = 'subtitles'
+    
+    files = []
+    # r=root, d=directories, f = files
+    for r, d, f in os.walk(path):
+        for file in f:
+            if '.xlog' in file:
+                files.append(os.path.join(r,file))
+    
+    
+                
+    return files, len(files)
+
 def get_data(n_documents):
     
     name_log_file = datetime.now().strftime('logs\load_subtitles_%d_%m_%Y.log')
@@ -24,15 +38,9 @@ def get_data(n_documents):
     
     #PROGRAM:
     #---------------------------------------------------------------------------------------
-    
-    path = 'subtitles'
-    
     files = []
-    # r=root, d=directories, f = files
-    for r, d, f in os.walk(path):
-        for file in f:
-            if '.xlog' in file:
-                files.append(os.path.join(r,file))
+    [files,max_files]= get_NameFiles()
+    
     
     
     dic_subtitles={}
@@ -55,8 +63,7 @@ def get_data(n_documents):
     print("The process of extraction has been started: ")
     for subtitle in tqdm(files[0:n_documents]):
         
-        
-        if "La1" in subtitle or "1_spa" in subtitle or "Telecinco" in subtitle or "laSexta" in subtitle or "antena3" in subtitle:
+        if "La1" in subtitle or "1_spa" in subtitle or "Telecinco" in subtitle or "laSexta" in subtitle or "antena3" in subtitle or "Telemadrid" in subtitle:
                 
                 try:
                     f=open(subtitle, "r",encoding="utf-8")

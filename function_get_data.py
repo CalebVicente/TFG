@@ -28,7 +28,7 @@ def get_news_between_times(subtitles_day, string_ini, string_final, num_range):
     else:
         change_ini=0
         change_final=0
-        for i in range(num_range):
+        for i in range(int(string_ini[3:5]),num_range):
             if initial_finder==-1 and change_ini==0:
                 if i<10:
                     str_num="0"+str(i)
@@ -73,7 +73,7 @@ def get_news(name, subtitles_day):
             num_range2 = 38 
             string_ini2 = "21:10:"
             string_final2 = "21:44:"
-            num_range2 = 44 
+            num_range2 = 34
         else:           
             if "antena3" in name:
                 string_ini = "15:00:"
@@ -90,6 +90,14 @@ def get_news(name, subtitles_day):
                     string_ini2 = "20:00:"
                     string_final2 = "20:55:"
                     num_range2 = 55
+                else: 
+                    if "Telemadrid" in name:
+                        string_ini = "14:00:"
+                        string_final = "14:55:"
+                        num_range = 55
+                        string_ini2 = "20:30:"
+                        string_final2 = "21:20:"
+                        num_range2 = 50
                 
     
     new_morning = get_news_between_times(subtitles_day, string_ini, string_final, num_range)
