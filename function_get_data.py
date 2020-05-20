@@ -59,7 +59,7 @@ def get_news(name, subtitles_day):
     num_range=0
     num_range2=0
     
-    if "La1" in name or "1_spa" in name:
+    if "1_spa" in name:
         string_ini = "15:00:"
         string_final = "15:59:"
         num_range = 59 

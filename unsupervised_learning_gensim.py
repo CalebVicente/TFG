@@ -148,7 +148,7 @@ def LDAmodel( n_topics, n_documents, n_printedDocuments, step=1, start=1):
            
             f=open(file_lda_model, 'rb')
             lda = pickle.load(f)
-            print("The model has been trained previously with..."+str(n_topics)+" n_topics")            
+            print("The model has been trained previously with..."+str(n_topics)+" n_topics") 
             coherencemodel = CoherenceModel(model=lda, corpus=corpus, dictionary=id2word, coherence='u_mass')
             #CoherenceModel(model=goodLdaModel, texts=texts, dictionary=dictionary, coherence='c_v')
             #coherencemodel = CoherenceModel(model=lda, texts=list(generator_normalize), dictionary=id2word, coherence='c_v')
@@ -161,7 +161,8 @@ def LDAmodel( n_topics, n_documents, n_printedDocuments, step=1, start=1):
             
             tic_all_processing=timeit.default_timer()
             #function based on : https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#13viewthetopicsinldamodel
-            coherencemodelArray.append(training_model(n_documents,n_topics,id2word,corpus,generator_normalize))                
+            coherence_values=training_model(n_documents,n_topics,id2word,corpus,generator_normalize)
+            coherencemodelArray.append(coherence_values)                
             toc_all_processing=timeit.default_timer()
             try: 
                 time_lda_fit=str(datetime.timedelta(seconds=int(float(toc_all_processing-tic_all_processing))))

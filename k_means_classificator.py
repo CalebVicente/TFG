@@ -33,15 +33,15 @@ import get_data
 from unsupervised_learning_gensim import LDAmodel
 from unsupervised_learning_gensim import printColorWordDocument
 
-N_TOPICS =80
+N_TOPICS =21
 #este parámetro no se puede añadir a mano
 n_printedDocuments =5
-max_clusters=100
+max_clusters=21
 
 [files, max_documents] = get_data.get_NameFiles()
 
 #if we want to change the number of documents to analized we can do it here
-n_documents=max_documents
+n_documents=21
 def validator_cluster(array_topic_per_document, min_cluster=1, max_cluster=n_documents):
 	"""This function is going to take the percentaje of the topic of every document, and will validate what number of
 	clusters group best similar documents refers to topics
@@ -53,7 +53,7 @@ def validator_cluster(array_topic_per_document, min_cluster=1, max_cluster=n_doc
 	#darle un buen repaso a este tema
 	kmeans = [KMeans(n_clusters=i) for i in tqdm(Number_clusters)]
 	kmeans
-	score = [kmeans[i].fit(array_topic_per_document).score(array_topic_per_document) for i in range(len(kmeans))]
+	score = [kmeans[i].fit(array_topic_per_document).score(array_topic_per_document) for i in tqdm(range(len(kmeans)))]
 	
 	return score
 
@@ -88,17 +88,99 @@ def topic_per_document_pandas(array_topic_per_document, best_n_topic, dic_subtit
 
 def printClusterDf(dataframe, n_documents, index_clusters):
     """Función que imprime en un excel los documentos pertenecientes a un cluster, y los tópicos a los que pertence"""
-    with pd.ExcelWriter('results\\ClusterDf_'+str(n_documents)+'.xlsx') as writer:
+    if not os.path.exists('results\\Clusters\\'+str(n_documents)):
+        os.makedirs('results\\Clusters\\'+str(n_documents))
+    with pd.ExcelWriter('results\\Clusters\\'+str(n_documents)+'\\ClusterDf_'+str(n_documents)+'.xlsx') as writer:
         for i in range(len(index_clusters)):
             cluster = index_clusters[i]
             dataframe[cluster].T.astype(float).round(3).to_excel(writer, sheet_name='Cluster'+str(i))
+            
+def get_day(text,year):
+    """this function returns the day from a subtitle title"""
+    n_day=text.find(year)
+    day=""
+    if n_day!=-1:
+        day=text[n_day:(n_day+10)]
+    
+    return day
 
-def printDayDf(day, dataframe, n_documents, index_clusters, dic_subtitles):
+def list_days(dic_subtitles):   
+    """this functions returns the list of diferents days used in the corpus"""
+    subtitles=list(dic_subtitles.keys())
+    years=["2017","2016","2018","2019","2020"]
+    
+    days=[get_day(text,year) for text in subtitles for year in years if get_day(text,year) != ""]
+    
+    days=list(set(days))
+    
+    return days
+          
+def printDayDf(day, dataframe, n_documents, index_clusters, dic_subtitles,k_means,n_clusters):
     """Función que imprime en un excel los documentos pertenecientes a un dia, el cluster al que pertenecen y sus datos"""
+    if not os.path.exists('results\\days\\'+str(n_documents)):
+        os.makedirs('results\\days\\'+str(n_documents))
+    
     subtitles_day = [subtitle for subtitle in list(dic_subtitles.keys()) if day in subtitle]
-    with pd.ExcelWriter('results\\day_'+str(n_documents)+'.xlsx') as writer:
-        dataframe[subtitles_day].T.astype(float).round(3).to_excel(writer, sheet_name=day)            
+    #topic for every document during a day
+    df_day = dataframe[subtitles_day].T.astype(float).round(3)  
+    
+    #euclidian distance normalize for all the clusters centers
+    ed_norm = get_EuclDistNorm(k_means)
+    #euclidian distance for only the clusters of the concret day
+    df_ed_day=get_EuclDistFromDay(df_day, ed_norm, n_clusters)
+    
+    #--------------------------------------------------------------------------------------------------
+    from openpyxl import load_workbook
+    book = load_workbook('results\\days\\'+str(n_documents)+'\\day_clusters'+str(n_documents)+'.xlsx')
+    writer = pd.ExcelWriter('results\\days\\'+str(n_documents)+'\\day_clusters'+str(n_documents)+'.xlsx', engine='openpyxl') 
+    writer.book = book
+    
+    ## ExcelWriter for some reason uses writer.sheets to access the sheet.
+    ## If you leave it empty it will not know that sheet Main is already there
+    ## and will create a new sheet.
+    
+    dataframe[subtitles_day].T.astype(float).round(3).to_excel(writer, sheet_name=day)  
+    df_ed_day.astype(float).round(3).to_excel(writer,sheet_name=day, startrow=len(df_day.index)+5)
+    
+    
+    writer.save()
+    #---------------------------------------------------------------------------------------------------
+    """
+    with pd.ExcelWriter('results\\days\\'+str(n_documents)+'\\day_'+str(n_documents)+'.xlsx') as writer:
+        dataframe[subtitles_day].T.astype(float).round(3).to_excel(writer, sheet_name=day)  
+        df_ed_day.astype(float).round(3).to_excel(writer,sheet_name=day, startrow=len(df_day.index)+5)
+    """
+    
 
+def get_EuclDistNorm(k_means):
+    
+    from sklearn.metrics.pairwise import euclidean_distances
+    
+    #creation of a euclidian distances matrix, [n_clustersXn_clusters] normalized
+    cluster_centers = k_means.cluster_centers_
+    ed = euclidean_distances(cluster_centers,cluster_centers)
+    ed_norm = ed/ed.max()
+    
+    return ed_norm
+
+def get_EuclDistFromDay(df_day, ed_norm, n_clusters):
+    """this function get the euclidan distance dataframe with the topic of th day"""
+    
+    #get differents clusters in a day
+    clusters_day = dict(df_day['clusters']).values()
+    np_clusters_day=np.array(list(clusters_day)).astype(int)
+    np_clusters_day=np.unique(np_clusters_day)
+    
+    #creation of the euclidian distances matrix with the topics of the day
+    ed_day=[ed_norm[i][j] for i in np_clusters_day for j in np_clusters_day]
+    np_ed_day=np.array(ed_day).reshape((np.size(np_clusters_day),np.size(np_clusters_day)))
+    
+    ed_columns=[i for i in np_clusters_day]
+    df_ed_day = pd.DataFrame(np_ed_day, dtype="str", index=ed_columns)
+    df_ed_day.columns=ed_columns
+    
+    return df_ed_day
+    
 def knee_locator_k_means(score):
 	"""This funtion localize where is the optimal number of clusters"""
 	from kneed import KneeLocator
@@ -118,6 +200,7 @@ def graphic_k_means_validator(knee,score):
 	plt.ylabel('Sum of squared distances')
 	plt.plot(x, score, 'bx-')
 	plt.vlines(knee, plt.ylim()[0], plt.ylim()[1], linestyles='dashed')
+    
 
 def showGraphsLDATrainedInTerminal(dic_subtitles, array_topic_per_document, best_n_topic, n_documents=n_documents):
 	"""This function start with the first document an finalize with the las document indicated"""
@@ -239,6 +322,20 @@ printResults2Document(max_documents, n_documents, dic_subtitles, N_TOPICS, best_
 topic_dataframe = topic_per_document_pandas(array_topic_per_document, best_n_topic, dic_subtitles)
 
 printClusterDf(topic_dataframe, n_documents,index_clusters)
+
+#printing into an excel all the topics of the days
+print("printing into excel documents for days")
+df = pd.DataFrame({'A' : [np.nan]})
+days=list_days(dic_subtitles)
+with pd.ExcelWriter('results\\days\\'+str(n_documents)+'\\day_clusters'+str(n_documents)+'.xlsx') as writer:
+        df.to_excel(writer, sheet_name=days[0]) 
+for day in tqdm(days):
+    printDayDf(day, topic_dataframe, n_documents, index_clusters, dic_subtitles,k_means_optimized, knee)
+
+
+#PRUEBAS---------------------------------------------------------------------------------------------------
+
+
 #IMPRIMIR DOCUMENTOS DE WORD--------------------------------------------------------------
 
 print("ha llegado a entrenar el modelo")

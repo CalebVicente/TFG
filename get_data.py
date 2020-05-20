@@ -63,7 +63,7 @@ def get_data(n_documents):
     print("The process of extraction has been started: ")
     for subtitle in tqdm(files[0:n_documents]):
         
-        if "La1" in subtitle or "1_spa" in subtitle or "Telecinco" in subtitle or "laSexta" in subtitle or "antena3" in subtitle or "Telemadrid" in subtitle:
+        if "1_spa" in subtitle or "Telecinco" in subtitle or "laSexta" in subtitle or "antena3" in subtitle or "Telemadrid" in subtitle:
                 
                 try:
                     f=open(subtitle, "r",encoding="utf-8")
