@@ -1,14 +1,12 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Apr 14 08:07:20 2020
-
 @author: cvicentm
 """
 """ 
 In this module the first preprocessing will be done. 
 Corpus, and differents methods, most of all
 implemented with the python library NLTK.
-
 """
 
 import string
@@ -42,6 +40,8 @@ import itertools
 #VER COMO PONER ESTO DE FORMA MÁS ELEGANTE
 stopwords   = set(nltk.corpus.stopwords.words('spanish'))
 stopwords.add("unir")
+snowball = SnowballStemmer('spanish')
+punctuation = string.punctuation
 
 
 
@@ -78,39 +78,70 @@ def compounds_names(text):
     return text
     
 def normalize(text):
-    
-    
-    ## Module constants
-    snowball = SnowballStemmer('spanish')
-    punctuation = string.punctuation
+ 
+    def lemmAndStem(word):
+            word = word.lower() 
+            if word not in stopwords and word not in punctuation and word != "0000000000000000000000000000000000000000" and len(word)>3:
+                #we do it with yield to create a generator, too much faster, and when less memory problems than a list
+                #this is applying english lemmatization, so we have to prove with patter
+                #the thing is that as far as i know patter only works in python 2
+                word = lemma(word)
+                word = snowball.stem(word)
+                if word not in stopwords and word not in punctuation and len(word)>2:
+                    return word
     
     for token in text:
-        token = token.lower() 
-        if token not in stopwords and token not in punctuation and token != "0000000000000000000000000000000000000000" and len(token)>3:
-            #we do it with yield to create a generator, too much faster, and when less memory problems than a list
-            #this is applying english lemmatization, so we have to prove with patter
-            #the thing is that as far as i know patter only works in python 2
-            token = lemma(token)
-            token = snowball.stem(token)
-            if token not in stopwords and token not in punctuation and len(token)>3:
-                yield token
+        ## Module constants     
+        #if all the characters are uppercase then they are not stimmed nor are lemmatized, opposite they will be
+        if token.lower() not in stopwords:
+            if token[0].isupper():
+                for i in range(len(token)):
+                    if token[i].isupper():
+                        word=token
+                        continue
+                    else:
+                        if lemmAndStem(token):
+                            word=lemmAndStem(token)
+                        break
+                yield word
+            else:
+                if lemmAndStem(token):
+                    word=lemmAndStem(token)       
+                    yield word
             
-def normalize_word(word):
+def normalize_word(token):
     
     ## Module constants
-    snowball = SnowballStemmer('spanish')
-    stopwords   = set(nltk.corpus.stopwords.words('spanish'))
-    punctuation = string.punctuation
+    def lemmAndStem(word):
+            word = word.lower() 
+            if word not in stopwords and word not in punctuation and word != "0000000000000000000000000000000000000000" and len(word)>3:
+                #we do it with yield to create a generator, too much faster, and when less memory problems than a list
+                #this is applying english lemmatization, so we have to prove with patter
+                #the thing is that as far as i know patter only works in python 2
+                word = lemma(word)
+                word = snowball.stem(word)
+                if word not in stopwords and word not in punctuation and len(word)>2:
+                    return word
     
-    word = word.lower() 
-    
-    if word not in stopwords and word not in punctuation and len(word)>3:
-        word = lemma(word)
-        word = snowball.stem(word)
-    #if word not in stopwords and word not in punctuation and len(word)>3:
-        #we do it with yield to create a generator, too much faster, and when less memory problems than a list
-    return word
+    ## Module constants     
+    #if all the characters are uppercase then they are not stimmed nor are lemmatized, opposite they will be       
+    if token.lower() not in stopwords:
+        if token[0].isupper():
+            for i in range(len(token)):
+                if token[i].isupper():
+                    word=token
+                    continue
+                else:
+                    if lemmAndStem(token):
+                        word=lemmAndStem(token)
+                    break
+            return word
+        else:
+            if lemmAndStem(token):
+                word=lemmAndStem(token)       
+                return word
             
+
 def create_corpus(n_documents):
     from tqdm import tqdm
     #tic and toc are used to know how many time the process of extaction has taken
@@ -123,6 +154,8 @@ def create_corpus(n_documents):
     dic_subtitles = {key:value for (key,value) in tqdm(dic_subtitles.items()) if value != ""}
     print("analizing compounds names...")
     dic_subtitles = {key:compounds_names(value) for (key,value) in tqdm(dic_subtitles.items())}
+    
+    
     #this line can cut the dictionary of document to make faster
     #dic_subtitles= dict(itertools.islice(dic_subtitles.items(), 0, n_documents))
     
@@ -159,4 +192,5 @@ def create_corpus(n_documents):
     return generator_normalize, Bow_matrix, vectorizer, vectorizer_first, dic_subtitles
     """
     return generator_normalize, dic_subtitles
+
 

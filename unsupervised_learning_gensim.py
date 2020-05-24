@@ -110,7 +110,7 @@ def training_model(n_documents,n_topics,id2word, corpus, generator_normalize):
 
 
 #PROGRAM......................................................................
-def LDAmodel( n_topics, n_documents, n_printedDocuments, step=1, start=1):   
+def LDAmodel( n_topics, n_documents, n_printedDocuments, step=1, start=5):   
     #Tengo que escribir para que sirve cada cosa que hace el gensim
     coherencemodelArray=[]
     

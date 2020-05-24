@@ -33,15 +33,15 @@ import get_data
 from unsupervised_learning_gensim import LDAmodel
 from unsupervised_learning_gensim import printColorWordDocument
 
-N_TOPICS =21
+N_TOPICS =60
 #este parámetro no se puede añadir a mano
-n_printedDocuments =5
-max_clusters=21
+n_printedDocuments =20
+max_clusters=200
 
 [files, max_documents] = get_data.get_NameFiles()
 
 #if we want to change the number of documents to analized we can do it here
-n_documents=21
+n_documents=max_documents
 def validator_cluster(array_topic_per_document, min_cluster=1, max_cluster=n_documents):
 	"""This function is going to take the percentaje of the topic of every document, and will validate what number of
 	clusters group best similar documents refers to topics
@@ -117,8 +117,7 @@ def list_days(dic_subtitles):
           
 def printDayDf(day, dataframe, n_documents, index_clusters, dic_subtitles,k_means,n_clusters):
     """Función que imprime en un excel los documentos pertenecientes a un dia, el cluster al que pertenecen y sus datos"""
-    if not os.path.exists('results\\days\\'+str(n_documents)):
-        os.makedirs('results\\days\\'+str(n_documents))
+
     
     subtitles_day = [subtitle for subtitle in list(dic_subtitles.keys()) if day in subtitle]
     #topic for every document during a day
@@ -219,15 +218,15 @@ def showOneGraphLDATrainedInTerminal(name_document, array_topic_per_document, be
     ax.plot(np.arange(0,best_n_topic,1),array_topic_per_document[number_document],'-*',label=name_document)
     ax.legend()
 
-def similar_subtitles(dic_subtitles,k_means):
+def similar_subtitles(dic_subtitles,k_means, n_clusters):
     """This function group all the subtitles titles for cluster group"""
     k_means_label = k_means.labels_
     index_clusters=[]
     list_subtitles=list(dic_subtitles.keys())
     k_means_label = list(k_means_optimized.labels_)
-    for i in range(knee):
+    for i in range(n_clusters):
         index = []
-        index = [list_subtitles[document_number] for document_number, n_cluster in enumerate(k_means_label) if n_cluster == i]
+        index = [list_subtitles[document_number] for document_number, cluster in enumerate(k_means_label) if cluster == i]
         index_clusters.append(index)
     
     return index_clusters
@@ -312,7 +311,7 @@ k_means_optimized = KMeans(n_clusters=knee).fit(array_topic_per_document)
 
 showGraphsLDATrainedInTerminal(dic_subtitles, array_topic_per_document, best_n_topic, n_documents=5)
 
-index_clusters = similar_subtitles(dic_subtitles,k_means_optimized)
+index_clusters = similar_subtitles(dic_subtitles,k_means_optimized,knee)
 
 printClusters2Document(index_clusters,n_documents,dic_subtitles)
 
@@ -323,15 +322,19 @@ topic_dataframe = topic_per_document_pandas(array_topic_per_document, best_n_top
 
 printClusterDf(topic_dataframe, n_documents,index_clusters)
 
+#ORDENAR UN POCO ESTE CÓDIGO
 #printing into an excel all the topics of the days
+"""
 print("printing into excel documents for days")
 df = pd.DataFrame({'A' : [np.nan]})
 days=list_days(dic_subtitles)
+if not os.path.exists('results\\days\\'+str(n_documents)):
+        os.makedirs('results\\days\\'+str(n_documents))
 with pd.ExcelWriter('results\\days\\'+str(n_documents)+'\\day_clusters'+str(n_documents)+'.xlsx') as writer:
-        df.to_excel(writer, sheet_name=days[0]) 
+        df.to_excel(writer, sheet_name="main") 
 for day in tqdm(days):
     printDayDf(day, topic_dataframe, n_documents, index_clusters, dic_subtitles,k_means_optimized, knee)
-
+"""
 
 #PRUEBAS---------------------------------------------------------------------------------------------------
 
@@ -350,7 +353,7 @@ lda_model = gensim.models.ldamodel.LdaModel(corpus=corpus,
                                                per_word_topics=True)
 
 
-"""
+
 colors = []
 
 print("ha llegado hasta la parte de los colores")   
@@ -367,7 +370,7 @@ for i in tqdm(range(n_printedDocuments)):
     printColorWordDocument(i,colors,generator_normalize,dic_subtitles,lda_model,corpus,n_documents)
 
 print("el mejor tópicoooooooooooo:"+str(best_n_topic))
-"""
+
 
 """with pd.ExcelWriter('output.xlsx') as writer:  
     dataframe.to_excel(writer, sheet_name='Sheet_name_1')"""

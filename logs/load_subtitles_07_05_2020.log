@@ -1,0 +1,884 @@
+2020-05-07 21:38:14,305:get_data.py:71:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-07 21:38:14,306:get_data.py:73:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-07 21:38:15,339:get_data.py:71:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-07 21:38:15,339:get_data.py:73:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-07 21:38:19,671:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 29.xlog cant be decodified  
+
+2020-05-07 21:38:19,679:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 30.xlog cant be decodified  
+
+2020-05-07 21:38:22,856:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 02 20.xlog cant be decodified  
+
+2020-05-07 21:38:23,359:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 05.xlogmorning_new está vacio 
+
+2020-05-07 21:38:23,802:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-05-07 21:38:24,892:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-05-07 21:38:24,993:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-05-07 21:38:25,689:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 05 22.xlogafternoon_new está vacio 
+
+2020-05-07 21:38:30,130:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 09 04.xlog cant be decodified  
+
+2020-05-07 21:38:31,042:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-05-07 21:38:31,042:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-05-07 21:38:31,214:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-05-07 21:38:31,426:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 29.xlogafternoon_new está vacio 
+
+2020-05-07 21:38:31,459:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-05-07 21:38:31,537:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-05-07 21:38:31,537:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-05-07 21:38:32,733:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-05-07 21:38:33,103:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-05-07 21:38:33,104:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-05-07 21:38:33,160:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-05-07 21:38:34,619:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-05-07 21:38:35,089:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 09.xlog cant be decodified  
+
+2020-05-07 21:38:35,252:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 16.xlog cant be decodified  
+
+2020-05-07 21:38:37,706:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-05-07 21:38:38,403:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-05-07 21:38:38,403:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-05-07 21:38:41,559:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 06 23.xlog cant be decodified  
+
+2020-05-07 21:38:46,202:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 08 10.xlogmorning_new está vacio 
+
+2020-05-07 21:38:46,202:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 08 10.xlogafternoon_new está vacio 
+
+2020-05-07 21:38:47,086:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 04.xlogmorning_new está vacio 
+
+2020-05-07 21:38:47,087:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 04.xlogafternoon_new está vacio 
+
+2020-05-07 21:38:47,151:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 12.xlogmorning_new está vacio 
+
+2020-05-07 21:38:49,969:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 10 29.xlogmorning_new está vacio 
+
+2020-05-07 21:38:49,969:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 10 29.xlogafternoon_new está vacio 
+
+2020-05-07 21:38:54,743:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 02 12.xlog cant be decodified  
+
+2020-05-07 21:38:55,080:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-05-07 21:38:55,080:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-05-07 21:38:55,128:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-05-07 21:38:59,483:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 07 21.xlogmorning_new está vacio 
+
+2020-05-07 21:38:59,483:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 07 21.xlogafternoon_new está vacio 
+
+2020-05-07 21:38:59,907:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-05-07 21:38:59,934:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-05-07 21:38:59,934:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-05-07 21:39:00,115:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-05-07 21:39:00,115:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-05-07 21:39:00,141:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-05-07 21:39:00,150:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 12 03.xlog cant be decodified  
+
+2020-05-07 21:39:00,811:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 12 21.xlog cant be decodified  
+
+2020-05-07 21:39:01,027:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 27.xlogmorning_new está vacio 
+
+2020-05-07 21:39:01,027:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 27.xlogafternoon_new está vacio 
+
+2020-05-07 21:39:04,540:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2016 12 29.xlog cant be decodified  
+
+2020-05-07 21:39:04,712:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2016 12 30.xlog cant be decodified  
+
+2020-05-07 21:39:07,979:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2017 02 20.xlog cant be decodified  
+
+2020-05-07 21:39:08,458:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 03 05.xlogmorning_new está vacio 
+
+2020-05-07 21:39:08,905:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-05-07 21:39:10,026:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-05-07 21:39:10,111:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-05-07 21:39:15,006:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2017 09 04.xlog cant be decodified  
+
+2020-05-07 21:39:15,944:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-05-07 21:39:15,945:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-05-07 21:39:16,105:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-05-07 21:39:16,308:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 29.xlogafternoon_new está vacio 
+
+2020-05-07 21:39:16,342:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-05-07 21:39:16,410:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-05-07 21:39:16,410:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-05-07 21:39:17,443:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-05-07 21:39:17,811:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-05-07 21:39:17,811:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-05-07 21:39:17,863:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-05-07 21:39:19,076:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-05-07 21:39:19,422:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2018 01 09.xlog cant be decodified  
+
+2020-05-07 21:39:19,569:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2018 01 16.xlog cant be decodified  
+
+2020-05-07 21:39:21,849:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-05-07 21:39:22,466:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-05-07 21:39:22,466:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-05-07 21:39:29,434:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 08 10.xlogmorning_new está vacio 
+
+2020-05-07 21:39:29,434:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 08 10.xlogafternoon_new está vacio 
+
+2020-05-07 21:39:30,268:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 04.xlogmorning_new está vacio 
+
+2020-05-07 21:39:30,269:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 04.xlogafternoon_new está vacio 
+
+2020-05-07 21:39:30,336:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 12.xlogmorning_new está vacio 
+
+2020-05-07 21:39:31,197:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 06.xlogmorning_new está vacio 
+
+2020-05-07 21:39:32,495:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 29.xlogmorning_new está vacio 
+
+2020-05-07 21:39:32,495:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 29.xlogafternoon_new está vacio 
+
+2020-05-07 21:39:36,887:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-05-07 21:39:36,887:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-05-07 21:39:36,932:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-05-07 21:39:40,869:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 07 21.xlogmorning_new está vacio 
+
+2020-05-07 21:39:40,869:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 07 21.xlogafternoon_new está vacio 
+
+2020-05-07 21:39:41,290:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-05-07 21:39:41,319:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-05-07 21:39:41,319:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-05-07 21:39:41,490:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-05-07 21:39:41,490:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-05-07 21:39:41,521:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-05-07 21:39:41,536:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2019 12 03.xlog cant be decodified  
+
+2020-05-07 21:39:42,014:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2019 12 21.xlog cant be decodified  
+
+2020-05-07 21:39:42,186:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 27.xlogmorning_new está vacio 
+
+2020-05-07 21:39:42,186:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 27.xlogafternoon_new está vacio 
+
+2020-05-07 21:44:36,372:get_data.py:71:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-07 21:44:36,372:get_data.py:73:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-07 21:44:37,658:get_data.py:71:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-07 21:44:37,659:get_data.py:73:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-07 21:44:42,306:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 29.xlog cant be decodified  
+
+2020-05-07 21:44:42,308:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 30.xlog cant be decodified  
+
+2020-05-07 21:44:45,730:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 02 20.xlog cant be decodified  
+
+2020-05-07 21:44:46,244:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 05.xlogmorning_new está vacio 
+
+2020-05-07 21:44:46,733:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-05-07 21:44:47,870:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-05-07 21:44:47,971:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-05-07 21:44:48,873:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 05 22.xlogafternoon_new está vacio 
+
+2020-05-07 21:44:53,583:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 09 04.xlog cant be decodified  
+
+2020-05-07 21:44:54,532:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-05-07 21:44:54,532:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-05-07 21:44:54,720:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-05-07 21:44:54,932:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 29.xlogafternoon_new está vacio 
+
+2020-05-07 21:44:54,979:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-05-07 21:44:55,048:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-05-07 21:44:55,048:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-05-07 21:44:56,248:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-05-07 21:44:56,662:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-05-07 21:44:56,662:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-05-07 21:44:56,721:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-05-07 21:44:58,254:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-05-07 21:44:58,659:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 09.xlog cant be decodified  
+
+2020-05-07 21:44:58,809:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 16.xlog cant be decodified  
+
+2020-05-07 21:45:01,198:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-05-07 21:45:01,893:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-05-07 21:45:01,893:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-05-07 21:45:04,983:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 06 23.xlog cant be decodified  
+
+2020-05-07 21:45:09,076:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 08 10.xlogmorning_new está vacio 
+
+2020-05-07 21:45:09,076:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 08 10.xlogafternoon_new está vacio 
+
+2020-05-07 21:45:09,877:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 04.xlogmorning_new está vacio 
+
+2020-05-07 21:45:09,877:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 04.xlogafternoon_new está vacio 
+
+2020-05-07 21:45:09,931:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 12.xlogmorning_new está vacio 
+
+2020-05-07 21:45:12,367:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 10 29.xlogmorning_new está vacio 
+
+2020-05-07 21:45:12,367:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 10 29.xlogafternoon_new está vacio 
+
+2020-05-07 21:45:16,946:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 02 12.xlog cant be decodified  
+
+2020-05-07 21:45:17,310:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-05-07 21:45:17,310:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-05-07 21:45:17,404:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-05-07 21:45:22,003:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 07 21.xlogmorning_new está vacio 
+
+2020-05-07 21:45:22,003:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 07 21.xlogafternoon_new está vacio 
+
+2020-05-07 21:45:22,473:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-05-07 21:45:22,504:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-05-07 21:45:22,504:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-05-07 21:45:22,719:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-05-07 21:45:22,719:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-05-07 21:45:22,742:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-05-07 21:45:22,758:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 12 03.xlog cant be decodified  
+
+2020-05-07 21:45:23,475:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 12 21.xlog cant be decodified  
+
+2020-05-07 21:45:23,723:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 27.xlogmorning_new está vacio 
+
+2020-05-07 21:45:23,723:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 27.xlogafternoon_new está vacio 
+
+2020-05-07 21:45:27,066:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2016 12 29.xlog cant be decodified  
+
+2020-05-07 21:45:27,066:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2016 12 30.xlog cant be decodified  
+
+2020-05-07 21:45:30,490:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2017 02 20.xlog cant be decodified  
+
+2020-05-07 21:45:30,991:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 03 05.xlogmorning_new está vacio 
+
+2020-05-07 21:45:31,434:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-05-07 21:45:32,564:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-05-07 21:45:32,685:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-05-07 21:45:38,329:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2017 09 04.xlog cant be decodified  
+
+2020-05-07 21:45:39,431:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-05-07 21:45:39,431:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-05-07 21:45:39,652:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-05-07 21:45:39,917:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 29.xlogafternoon_new está vacio 
+
+2020-05-07 21:45:39,948:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-05-07 21:45:40,033:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-05-07 21:45:40,033:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-05-07 21:45:41,120:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-05-07 21:45:41,467:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-05-07 21:45:41,467:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-05-07 21:45:41,521:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-05-07 21:45:42,754:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-05-07 21:45:43,124:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2018 01 09.xlog cant be decodified  
+
+2020-05-07 21:45:43,271:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2018 01 16.xlog cant be decodified  
+
+2020-05-07 21:45:45,608:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-05-07 21:45:46,246:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-05-07 21:45:46,246:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-05-07 21:45:53,472:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 08 10.xlogmorning_new está vacio 
+
+2020-05-07 21:45:53,472:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 08 10.xlogafternoon_new está vacio 
+
+2020-05-07 21:45:54,274:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 04.xlogmorning_new está vacio 
+
+2020-05-07 21:45:54,274:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 04.xlogafternoon_new está vacio 
+
+2020-05-07 21:45:54,339:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 12.xlogmorning_new está vacio 
+
+2020-05-07 21:45:55,177:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 06.xlogmorning_new está vacio 
+
+2020-05-07 21:45:56,419:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 29.xlogmorning_new está vacio 
+
+2020-05-07 21:45:56,419:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 29.xlogafternoon_new está vacio 
+
+2020-05-07 21:46:00,936:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-05-07 21:46:00,936:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-05-07 21:46:00,989:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-05-07 21:46:05,004:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 07 21.xlogmorning_new está vacio 
+
+2020-05-07 21:46:05,004:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 07 21.xlogafternoon_new está vacio 
+
+2020-05-07 21:46:05,403:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-05-07 21:46:05,427:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-05-07 21:46:05,427:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-05-07 21:46:05,612:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-05-07 21:46:05,612:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-05-07 21:46:05,658:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-05-07 21:46:05,669:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2019 12 03.xlog cant be decodified  
+
+2020-05-07 21:46:06,144:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2019 12 21.xlog cant be decodified  
+
+2020-05-07 21:46:06,313:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 27.xlogmorning_new está vacio 
+
+2020-05-07 21:46:06,313:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 27.xlogafternoon_new está vacio 
+
+2020-05-07 22:55:29,801:get_data.py:71:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-07 22:55:29,801:get_data.py:73:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-07 22:55:30,671:get_data.py:71:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-07 22:55:30,671:get_data.py:73:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-07 22:55:52,243:get_data.py:71:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-07 22:55:52,243:get_data.py:73:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-07 22:55:52,968:get_data.py:71:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-07 22:55:52,968:get_data.py:73:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-07 22:55:55,970:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 29.xlog cant be decodified  
+
+2020-05-07 22:55:55,986:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 30.xlog cant be decodified  
+
+2020-05-07 22:55:58,465:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 02 20.xlog cant be decodified  
+
+2020-05-07 22:55:58,828:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 05.xlogmorning_new está vacio 
+
+2020-05-07 22:55:59,133:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-05-07 22:55:59,975:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-05-07 22:56:00,038:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-05-07 22:56:00,578:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 05 22.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:03,946:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 09 04.xlog cant be decodified  
+
+2020-05-07 22:56:04,621:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-05-07 22:56:04,621:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:04,742:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-05-07 22:56:04,903:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 29.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:04,932:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-05-07 22:56:04,982:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-05-07 22:56:04,982:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:05,756:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-05-07 22:56:06,019:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-05-07 22:56:06,019:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:06,057:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-05-07 22:56:07,107:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-05-07 22:56:07,407:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 09.xlog cant be decodified  
+
+2020-05-07 22:56:07,530:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 16.xlog cant be decodified  
+
+2020-05-07 22:56:09,284:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:09,803:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-05-07 22:56:09,803:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:12,149:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 06 23.xlog cant be decodified  
+
+2020-05-07 22:56:15,426:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 08 10.xlogmorning_new está vacio 
+
+2020-05-07 22:56:15,426:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 08 10.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:16,061:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 04.xlogmorning_new está vacio 
+
+2020-05-07 22:56:16,061:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 04.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:16,107:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 12.xlogmorning_new está vacio 
+
+2020-05-07 22:56:18,026:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 10 29.xlogmorning_new está vacio 
+
+2020-05-07 22:56:18,027:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 10 29.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:21,380:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 02 12.xlog cant be decodified  
+
+2020-05-07 22:56:21,661:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-05-07 22:56:21,661:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:21,694:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-05-07 22:56:25,011:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 07 21.xlogmorning_new está vacio 
+
+2020-05-07 22:56:25,011:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 07 21.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:25,311:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:25,327:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-05-07 22:56:25,327:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:25,459:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-05-07 22:56:25,459:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:25,474:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-05-07 22:56:25,474:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 12 03.xlog cant be decodified  
+
+2020-05-07 22:56:25,985:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 12 21.xlog cant be decodified  
+
+2020-05-07 22:56:26,146:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 27.xlogmorning_new está vacio 
+
+2020-05-07 22:56:26,146:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 27.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:28,423:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2016 12 29.xlog cant be decodified  
+
+2020-05-07 22:56:28,423:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2016 12 30.xlog cant be decodified  
+
+2020-05-07 22:56:30,828:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2017 02 20.xlog cant be decodified  
+
+2020-05-07 22:56:31,194:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 03 05.xlogmorning_new está vacio 
+
+2020-05-07 22:56:31,517:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-05-07 22:56:32,298:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-05-07 22:56:32,367:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-05-07 22:56:35,861:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2017 09 04.xlog cant be decodified  
+
+2020-05-07 22:56:36,494:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-05-07 22:56:36,494:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:36,610:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-05-07 22:56:36,778:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 29.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:36,803:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-05-07 22:56:36,850:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-05-07 22:56:36,850:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:37,614:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-05-07 22:56:37,870:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-05-07 22:56:37,870:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:37,911:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-05-07 22:56:38,807:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-05-07 22:56:39,079:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2018 01 09.xlog cant be decodified  
+
+2020-05-07 22:56:39,173:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2018 01 16.xlog cant be decodified  
+
+2020-05-07 22:56:40,817:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:41,318:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-05-07 22:56:41,318:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:46,513:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 08 10.xlogmorning_new está vacio 
+
+2020-05-07 22:56:46,513:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 08 10.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:47,114:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 04.xlogmorning_new está vacio 
+
+2020-05-07 22:56:47,114:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 04.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:47,158:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 12.xlogmorning_new está vacio 
+
+2020-05-07 22:56:47,748:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 06.xlogmorning_new está vacio 
+
+2020-05-07 22:56:48,642:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 29.xlogmorning_new está vacio 
+
+2020-05-07 22:56:48,642:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 29.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:51,728:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-05-07 22:56:51,728:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:51,761:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-05-07 22:56:54,564:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 07 21.xlogmorning_new está vacio 
+
+2020-05-07 22:56:54,564:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 07 21.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:54,866:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:54,886:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-05-07 22:56:54,886:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:55,015:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-05-07 22:56:55,015:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-05-07 22:56:55,035:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-05-07 22:56:55,044:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2019 12 03.xlog cant be decodified  
+
+2020-05-07 22:56:55,538:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2019 12 21.xlog cant be decodified  
+
+2020-05-07 22:56:55,822:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 27.xlogmorning_new está vacio 
+
+2020-05-07 22:56:55,822:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 27.xlogafternoon_new está vacio 
+
+2020-05-09 09:59:12,710:get_data.py:71:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-09 09:59:12,725:get_data.py:73:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-09 09:59:15,132:get_data.py:71:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-09 09:59:15,132:get_data.py:73:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-09 09:59:18,743:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 29.xlog cant be decodified  
+
+2020-05-09 09:59:18,758:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 30.xlog cant be decodified  
+
+2020-05-09 09:59:21,890:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 02 20.xlog cant be decodified  
+
+2020-05-09 09:59:22,307:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 05.xlogmorning_new está vacio 
+
+2020-05-09 09:59:22,670:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-05-09 09:59:23,625:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-05-09 09:59:23,694:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-05-09 09:59:24,258:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 05 22.xlogafternoon_new está vacio 
+
+2020-05-09 09:59:27,705:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 09 04.xlog cant be decodified  
+
+2020-05-09 09:59:28,501:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-05-09 09:59:28,501:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-05-09 09:59:28,624:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-05-09 09:59:28,786:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 29.xlogafternoon_new está vacio 
+
+2020-05-09 09:59:28,824:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-05-09 09:59:28,871:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-05-09 09:59:28,871:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-05-09 09:59:29,689:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-05-09 09:59:30,005:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-05-09 09:59:30,012:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-05-09 09:59:30,043:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-05-09 09:59:31,131:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-05-09 09:59:31,447:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 09.xlog cant be decodified  
+
+2020-05-09 09:59:31,578:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 16.xlog cant be decodified  
+
+2020-05-09 09:59:33,421:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-05-09 09:59:34,054:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-05-09 09:59:34,054:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-05-09 09:59:36,407:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 06 23.xlog cant be decodified  
+
+2020-05-09 09:59:39,584:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 08 10.xlogmorning_new está vacio 
+
+2020-05-09 09:59:39,584:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 08 10.xlogafternoon_new está vacio 
+
+2020-05-09 09:59:40,217:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 04.xlogmorning_new está vacio 
+
+2020-05-09 09:59:40,217:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 04.xlogafternoon_new está vacio 
+
+2020-05-09 09:59:40,271:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 12.xlogmorning_new está vacio 
+
+2020-05-09 09:59:42,208:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 10 29.xlogmorning_new está vacio 
+
+2020-05-09 09:59:42,208:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 10 29.xlogafternoon_new está vacio 
+
+2020-05-09 09:59:45,632:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 02 12.xlog cant be decodified  
+
+2020-05-09 09:59:45,871:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-05-09 09:59:45,871:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-05-09 09:59:45,917:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-05-09 09:59:49,480:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 07 21.xlogmorning_new está vacio 
+
+2020-05-09 09:59:49,480:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 07 21.xlogafternoon_new está vacio 
+
+2020-05-09 09:59:49,819:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-05-09 09:59:49,839:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-05-09 09:59:49,839:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-05-09 09:59:49,970:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-05-09 09:59:49,970:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-05-09 09:59:49,990:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-05-09 09:59:50,000:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 12 03.xlog cant be decodified  
+
+2020-05-09 09:59:50,471:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 12 21.xlog cant be decodified  
+
+2020-05-09 09:59:50,640:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 27.xlogmorning_new está vacio 
+
+2020-05-09 09:59:50,640:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 27.xlogafternoon_new está vacio 
+
+2020-05-09 09:59:52,977:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2016 12 29.xlog cant be decodified  
+
+2020-05-09 09:59:52,993:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2016 12 30.xlog cant be decodified  
+
+2020-05-09 09:59:55,299:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2017 02 20.xlog cant be decodified  
+
+2020-05-09 09:59:55,669:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 03 05.xlogmorning_new está vacio 
+
+2020-05-09 09:59:56,001:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-05-09 09:59:56,819:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-05-09 09:59:56,888:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-05-09 10:00:01,099:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2017 09 04.xlog cant be decodified  
+
+2020-05-09 10:00:01,801:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-05-09 10:00:01,801:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-05-09 10:00:01,933:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-05-09 10:00:02,102:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 29.xlogafternoon_new está vacio 
+
+2020-05-09 10:00:02,133:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-05-09 10:00:02,171:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-05-09 10:00:02,171:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-05-09 10:00:02,954:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-05-09 10:00:03,274:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-05-09 10:00:03,274:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-05-09 10:00:03,320:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-05-09 10:00:04,276:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-05-09 10:00:04,577:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2018 01 09.xlog cant be decodified  
+
+2020-05-09 10:00:04,709:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2018 01 16.xlog cant be decodified  
+
+2020-05-09 10:00:06,419:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-05-09 10:00:06,936:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-05-09 10:00:06,936:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-05-09 10:00:12,231:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 08 10.xlogmorning_new está vacio 
+
+2020-05-09 10:00:12,231:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 08 10.xlogafternoon_new está vacio 
+
+2020-05-09 10:00:12,817:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 04.xlogmorning_new está vacio 
+
+2020-05-09 10:00:12,817:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 04.xlogafternoon_new está vacio 
+
+2020-05-09 10:00:12,879:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 12.xlogmorning_new está vacio 
+
+2020-05-09 10:00:13,534:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 06.xlogmorning_new está vacio 
+
+2020-05-09 10:00:14,468:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 29.xlogmorning_new está vacio 
+
+2020-05-09 10:00:14,468:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 29.xlogafternoon_new está vacio 
+
+2020-05-09 10:00:17,746:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-05-09 10:00:17,746:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-05-09 10:00:17,793:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-05-09 10:00:20,869:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 07 21.xlogmorning_new está vacio 
+
+2020-05-09 10:00:20,869:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 07 21.xlogafternoon_new está vacio 
+
+2020-05-09 10:00:21,155:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-05-09 10:00:21,170:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-05-09 10:00:21,170:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-05-09 10:00:21,317:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-05-09 10:00:21,317:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-05-09 10:00:21,324:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-05-09 10:00:21,340:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2019 12 03.xlog cant be decodified  
+
+2020-05-09 10:00:21,703:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2019 12 21.xlog cant be decodified  
+
+2020-05-09 10:00:21,841:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 27.xlogmorning_new está vacio 
+
+2020-05-09 10:00:21,841:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 27.xlogafternoon_new está vacio 
+
+2020-05-09 10:32:10,105:get_data.py:71:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-09 10:32:10,105:get_data.py:73:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-09 10:32:11,023:get_data.py:71:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-09 10:32:11,023:get_data.py:73:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-09 10:32:14,116:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 29.xlog cant be decodified  
+
+2020-05-09 10:32:14,116:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 30.xlog cant be decodified  
+
+2020-05-09 10:32:16,406:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 02 20.xlog cant be decodified  
+
+2020-05-09 10:32:16,876:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 05.xlogmorning_new está vacio 
+
+2020-05-09 10:32:17,208:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-05-09 10:32:18,095:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-05-09 10:32:18,164:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-05-09 10:32:18,728:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 05 22.xlogafternoon_new está vacio 
+
+2020-05-09 10:32:22,052:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 09 04.xlog cant be decodified  
+
+2020-05-09 10:32:22,723:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-05-09 10:32:22,723:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-05-09 10:32:22,854:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-05-09 10:32:23,007:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 29.xlogafternoon_new está vacio 
+
+2020-05-09 10:32:23,039:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-05-09 10:32:23,092:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-05-09 10:32:23,092:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-05-09 10:32:23,890:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-05-09 10:32:24,184:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-05-09 10:32:24,184:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-05-09 10:32:24,216:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-05-09 10:32:25,262:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-05-09 10:32:25,548:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 09.xlog cant be decodified  
+
+2020-05-09 10:32:25,663:get_data.py:89:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 16.xlog cant be decodified  
+
+2020-05-09 10:32:27,506:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-05-09 10:32:28,039:get_data.py:71:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-05-09 10:32:28,039:get_data.py:73:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 26.xlogafternoon_new está vacio 
+

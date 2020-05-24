@@ -1,0 +1,26 @@
+
+----------------------------------------N CLUSTER: 0----------------------------------------
+CLUSTER = 0 subtitles\antena3 HD_spa_TXT.st 2019 09 14.xlogafternoon_new
+[0.0, 0.18869414925575256, 0.8112858533859253]
+CLUSTER = 0 subtitles\antena3 HD_spa_TXT.st 2019 09 16.xlogmorning_new
+[0.0, 0.016741925850510597, 0.9827694892883301]
+CLUSTER = 0 subtitles\antena3 HD_spa_TXT.st 2019 09 16.xlogafternoon_new
+[0.0, 0.0, 0.9994138479232788]
+CLUSTER = 0 subtitles\antena3 HD_spa_TXT.st 2019 09 18.xlogmorning_new
+[0.0, 0.0, 0.9996020793914795]
+
+----------------------------------------N CLUSTER: 1----------------------------------------
+CLUSTER = 1 subtitles\antena3 HD_spa_TXT.st 2019 09 14.xlogmorning_new
+[0.0, 0.9996904730796814, 0.0]
+CLUSTER = 1 subtitles\antena3 HD_spa_TXT.st 2019 09 15.xlogmorning_new
+[0.0, 0.9996768236160278, 0.0]
+CLUSTER = 1 subtitles\antena3 HD_spa_TXT.st 2019 09 15.xlogafternoon_new
+[0.0, 0.999466061592102, 0.0]
+
+----------------------------------------N CLUSTER: 2----------------------------------------
+CLUSTER = 2 subtitles\antena3 HD_spa_TXT.st 2019 09 17.xlogmorning_new
+[0.6265016198158264, 0.0, 0.36471500992774963]
+CLUSTER = 2 subtitles\antena3 HD_spa_TXT.st 2019 09 17.xlogafternoon_new
+[0.9991462230682373, 0.0, 0.0]
+CLUSTER = 2 subtitles\antena3 HD_spa_TXT.st 2019 09 18.xlogafternoon_new
+[0.9990507960319519, 0.0, 0.0]
