@@ -41,7 +41,7 @@ max_clusters=200
 [files, max_documents] = get_data.get_NameFiles()
 
 #if we want to change the number of documents to analized we can do it here
-n_documents=max_documents
+n_documents=max_documents-2
 def validator_cluster(array_topic_per_document, min_cluster=1, max_cluster=n_documents):
 	"""This function is going to take the percentaje of the topic of every document, and will validate what number of
 	clusters group best similar documents refers to topics
@@ -96,7 +96,7 @@ def printClusterDf(dataframe, n_documents, index_clusters):
             dataframe[cluster].T.astype(float).round(3).to_excel(writer, sheet_name='Cluster'+str(i))
             
 def get_day(text,year):
-    """this function returns the day from a subtitle title"""
+    """this function returns the date from a subtitle title given the year"""
     n_day=text.find(year)
     day=""
     if n_day!=-1:
@@ -245,9 +245,7 @@ def printClusters2Document(index_clusters,n_documents,dic_subtitles):
             f.write("----------------------------------------\n")
             
             for subtitles in cluster:
-                find_slash = subtitles.find("\\")
-                name_document = subtitles[:find_slash]+"\\"+subtitles[find_slash+1:]
-                number_document = list(dic_subtitles.keys()).index(name_document)
+                number_document = list(dic_subtitles.keys()).index(subtitles)
                 f.write("CLUSTER = "+str(acc))
                 f.write(" %s\n" % subtitles)
                 f.write(str(list(array_topic_per_document[number_document])))
@@ -324,7 +322,7 @@ printClusterDf(topic_dataframe, n_documents,index_clusters)
 
 #ORDENAR UN POCO ESTE CÓDIGO
 #printing into an excel all the topics of the days
-"""
+
 print("printing into excel documents for days")
 df = pd.DataFrame({'A' : [np.nan]})
 days=list_days(dic_subtitles)
@@ -332,9 +330,9 @@ if not os.path.exists('results\\days\\'+str(n_documents)):
         os.makedirs('results\\days\\'+str(n_documents))
 with pd.ExcelWriter('results\\days\\'+str(n_documents)+'\\day_clusters'+str(n_documents)+'.xlsx') as writer:
         df.to_excel(writer, sheet_name="main") 
-for day in tqdm(days):
+for day in tqdm(days[0:200]):
     printDayDf(day, topic_dataframe, n_documents, index_clusters, dic_subtitles,k_means_optimized, knee)
-"""
+
 
 #PRUEBAS---------------------------------------------------------------------------------------------------
 

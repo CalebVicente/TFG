@@ -76,7 +76,7 @@ def printColorWordDocument(number,colors,generator_normalize,dic_subtitles,lda_m
     paragraph = document.add_paragraph()
     [wordToDocument(word,colors[topic]) for word,topic in document_classified]
     
-    word_subtitles_colors="word\\"+str(n_documents)+"\\"+list(dic_subtitles.keys())[number][9:-1]+".docx"
+    word_subtitles_colors="word\\"+str(n_documents)+"\\"+list(dic_subtitles.keys())[number]+".docx"
     document.save(word_subtitles_colors)
     
 
@@ -110,7 +110,7 @@ def training_model(n_documents,n_topics,id2word, corpus, generator_normalize):
 
 
 #PROGRAM......................................................................
-def LDAmodel( n_topics, n_documents, n_printedDocuments, step=1, start=5):   
+def LDAmodel( n_topics, n_documents, n_printedDocuments, step=1, start=20):   
     #Tengo que escribir para que sirve cada cosa que hace el gensim
     coherencemodelArray=[]
     

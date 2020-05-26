@@ -94,21 +94,14 @@ def normalize(text):
         ## Module constants     
         #if all the characters are uppercase then they are not stimmed nor are lemmatized, opposite they will be
         if token.lower() not in stopwords:
-            if token[0].isupper():
-                for i in range(len(token)):
-                    if token[i].isupper():
-                        word=token
-                        continue
-                    else:
-                        if lemmAndStem(token):
-                            word=lemmAndStem(token)
-                        break
+            if token.isupper():
+                word = token
                 yield word
             else:
                 if lemmAndStem(token):
                     word=lemmAndStem(token)       
                     yield word
-            
+                    
 def normalize_word(token):
     
     ## Module constants
@@ -126,21 +119,84 @@ def normalize_word(token):
     ## Module constants     
     #if all the characters are uppercase then they are not stimmed nor are lemmatized, opposite they will be       
     if token.lower() not in stopwords:
-        if token[0].isupper():
-            for i in range(len(token)):
-                if token[i].isupper():
-                    word=token
-                    continue
-                else:
-                    if lemmAndStem(token):
-                        word=lemmAndStem(token)
-                    break
+        if token.isupper():
+            word = token
             return word
         else:
             if lemmAndStem(token):
                 word=lemmAndStem(token)       
                 return word
             
+def create_dic_subtitles(n_documents):
+    from tqdm import tqdm
+    
+    dic_subtitles=get_data.get_data(n_documents)
+    
+    #the rows where the value is empty are removed.
+    print("removing empty dictionary values...")
+    dic_subtitles = {key:value for (key,value) in tqdm(dic_subtitles.items()) if value != ""}
+    print("analizing compounds names...")
+    dic_subtitles = {key:compounds_names(value) for (key,value) in tqdm(dic_subtitles.items())}
+    
+    return dic_subtitles
+
+#REMOVE REPITED SUBTITLES:--------------------------------------------------------------------------
+import variables as v
+    
+years = v.YEARS
+channels = v.CHANNELS
+hour_new = v.NEWS
+
+def normalize_title_subtitles(subtitle):
+    
+    def get_day(text,year):
+        """this function returns the date from a subtitle title given the year"""
+        n_day=text.find(year)
+        day=""
+        if n_day!=-1:
+            day=text[n_day:(n_day+10)]
+        
+        return day
+
+    channel = [channel for channel in channels if subtitle.find(channel)!=-1]
+    
+    day=[get_day(subtitle,year) for year in years if get_day(subtitle,year) != ""]
+    
+    hour = [hour for hour in hour_new if subtitle.find(hour)!=-1]
+    
+    new_subtitle = str(channel[0])+"_"+str(day[0])+"_"+str(hour[0])
+    
+    return new_subtitle
+
+#------------------------------------------------------------------------------------------
+
+def norm_title_sub(dic_subtitles):
+    import logging, logging.handlers
+    from datetime import datetime
+    from tqdm import tqdm
+    #CAMBIAR LA RUTA DEL LOG
+    name_log_file = datetime.now().strftime('load_subtitles_%d_%m_%Y.log')
+    logging.basicConfig(filename=name_log_file, level=logging.WARNING, 
+                        format="%(asctime)s:%(filename)s:%(lineno)d:%(levelname)s:%(message)s")
+    
+    norm_dict_subt = {}
+        
+    for (o_key,value) in tqdm(dic_subtitles.items()):
+        
+        
+        n_key = normalize_title_subtitles(o_key)
+        
+        if n_key not in norm_dict_subt:
+        
+            norm_dict_subt[n_key] = dic_subtitles[o_key]
+        
+        else:
+            logging.warning("la clave "+str(n_key)+" esta repetida")
+            
+    return norm_dict_subt
+
+#--------------------------------------------------------------------------------------------------
+
 
 def create_corpus(n_documents):
     from tqdm import tqdm
@@ -152,6 +208,8 @@ def create_corpus(n_documents):
     #the rows where the value is empty are removed.
     print("removing empty dictionary values...")
     dic_subtitles = {key:value for (key,value) in tqdm(dic_subtitles.items()) if value != ""}
+    print("removing repited subtitles...")
+    dic_subtitles = norm_title_sub(dic_subtitles)
     print("analizing compounds names...")
     dic_subtitles = {key:compounds_names(value) for (key,value) in tqdm(dic_subtitles.items())}
     
