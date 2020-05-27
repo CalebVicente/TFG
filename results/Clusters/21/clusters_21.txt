@@ -1,0 +1,58 @@
+
+----------------------------------------N CLUSTER: 0----------------------------------------
+CLUSTER = 0 antena3_2019 09 14_morning_new
+CLUSTER = 0 antena3_2019 09 14_afternoon_new
+CLUSTER = 0 antena3_2019 09 15_morning_new
+CLUSTER = 0 antena3_2019 09 15_afternoon_new
+
+----------------------------------------N CLUSTER: 1----------------------------------------
+CLUSTER = 1 antena3_2019 09 16_afternoon_new
+CLUSTER = 1 antena3_2019 09 17_afternoon_new
+CLUSTER = 1 antena3_2019 09 23_afternoon_new
+CLUSTER = 1 antena3_2019 09 24_morning_new
+CLUSTER = 1 antena3_2019 09 24_afternoon_new
+CLUSTER = 1 antena3_2019 09 28_morning_new
+CLUSTER = 1 antena3_2019 09 28_afternoon_new
+CLUSTER = 1 antena3_2019 09 29_morning_new
+CLUSTER = 1 antena3_2019 09 29_afternoon_new
+CLUSTER = 1 antena3_2019 09 30_morning_new
+CLUSTER = 1 antena3_2019 09 30_afternoon_new
+CLUSTER = 1 antena3_2019 10 01_afternoon_new
+CLUSTER = 1 antena3_2019 10 02_afternoon_new
+CLUSTER = 1 antena3_2019 10 03_afternoon_new
+CLUSTER = 1 antena3_2019 10 04_afternoon_new
+
+----------------------------------------N CLUSTER: 2----------------------------------------
+CLUSTER = 2 antena3_2019 09 21_afternoon_new
+CLUSTER = 2 antena3_2019 09 25_afternoon_new
+CLUSTER = 2 antena3_2019 09 26_morning_new
+CLUSTER = 2 antena3_2019 09 26_afternoon_new
+CLUSTER = 2 antena3_2019 09 27_morning_new
+CLUSTER = 2 antena3_2019 09 27_afternoon_new
+CLUSTER = 2 antena3_2019 10 01_morning_new
+CLUSTER = 2 antena3_2019 10 03_morning_new
+CLUSTER = 2 antena3_2019 10 04_morning_new
+
+----------------------------------------N CLUSTER: 3----------------------------------------
+CLUSTER = 3 antena3_2019 09 18_morning_new
+CLUSTER = 3 antena3_2019 09 18_afternoon_new
+CLUSTER = 3 antena3_2019 09 19_afternoon_new
+CLUSTER = 3 antena3_2019 09 20_morning_new
+CLUSTER = 3 antena3_2019 09 20_afternoon_new
+CLUSTER = 3 antena3_2019 09 21_morning_new
+CLUSTER = 3 antena3_2019 09 22_morning_new
+CLUSTER = 3 antena3_2019 09 22_afternoon_new
+CLUSTER = 3 antena3_2019 09 25_morning_new
+
+----------------------------------------N CLUSTER: 4----------------------------------------
+CLUSTER = 4 antena3_2019 09 23_morning_new
+CLUSTER = 4 antena3_2019 10 02_morning_new
+
+----------------------------------------N CLUSTER: 5----------------------------------------
+CLUSTER = 5 antena3_2019 09 19_morning_new
+
+----------------------------------------N CLUSTER: 6----------------------------------------
+CLUSTER = 6 antena3_2019 09 17_morning_new
+
+----------------------------------------N CLUSTER: 7----------------------------------------
+CLUSTER = 7 antena3_2019 09 16_morning_new
